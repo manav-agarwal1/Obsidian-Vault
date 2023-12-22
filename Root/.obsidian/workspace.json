@@ -1,0 +1,200 @@
+{
+  "main": {
+    "id": "1773c79876dbb16a",
+    "type": "split",
+    "children": [
+      {
+        "id": "26fe80fd8774db96",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2460826b6af41b33",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tasks.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "93dd37c4be5bcb69",
+    "type": "split",
+    "children": [
+      {
+        "id": "13e5594a60a0ddc2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8dd9988f96718c9c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "626884f18a1ce960",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d74895803209ed34",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "b212cd0cbb55b5dc",
+    "type": "split",
+    "children": [
+      {
+        "id": "4f4c7764866a5eb9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "667978c417bc0312",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Tasks.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c2836785e4842018",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Tasks.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a30086f528281349",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "7ad56788c683f8dc",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Tasks.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "2460826b6af41b33",
+  "lastOpenFiles": [
+    "EE/Signals and Systems/Aaron Lanterman/Frequency Response.md",
+    "EE/Signals and Systems/Aaron Lanterman/Contents.md",
+    "CS/Programming Languages/C/Chapter 2.md",
+    "Maths/Group Theory/Products.md",
+    "Imgs/Pasted image 20231222190659.png",
+    "Maths/Group Theory/Homomorphisms.md",
+    "Imgs/Pasted image 20231222185430.png",
+    "Maths/Group Theory/Langrange's Theorem.md",
+    "Imgs/Pasted image 20231222022933.png",
+    "Chinese Reminder Theorem.md",
+    "Maths/Group Theory/Cayley's Theorem.md",
+    "Maths/Group Theory/Introduction.md",
+    "Imgs/Pasted image 20231222013645.png",
+    "Maths/Group Theory/Contents.md",
+    "Tasks.md",
+    "CS/Programming Languages/C/Chapter 1.md",
+    "CS/Programming Languages/C/Contents.md",
+    "Imgs/Pasted image 20231219192355.png",
+    "Imgs/Pasted image 20231219190406.png",
+    "CS/Programming Languages/C/Introduction.md",
+    "Imgs/Pasted image 20231219141328.png",
+    "CS/Programming Languages/C.md",
+    "CS/Programming Languages/C",
+    "CS/Programming Languages",
+    "EE/Signals and Systems/Aaron Lanterman/Fourier Transforms - Special Cases.md",
+    "Imgs/Pasted image 20231218192546.png",
+    "Imgs/Pasted image 20231218192409.png",
+    "EE/Signals and Systems/Aaron Lanterman/Fourier Series.md",
+    "Imgs/Pasted image 20231218191245.png",
+    "EE/Contents.md",
+    "Maths/Contents.md",
+    "EE/Untitled.canvas",
+    "Physics/Physics_Constants.md",
+    "CS/Systems and Networks",
+    "Physics/Random/Cause of Light.md",
+    "EE",
+    "CS",
+    "EE/Signals and Systems/Aaron Lanterman/Convolution - Special Cases.md",
+    "Maths/Group Theory/Contents/Homomorphisms.md",
+    "Maths/Group Theory/Contents",
+    "EE/Signals and Systems/Aaron Lanterman/Convolution - Flipping and Shifting.md",
+    "EE/Signals and Systems/Aaron Lanterman/Why LTI systems are awesome (Question Mark).md",
+    "[[Maths",
+    "Maths/Group Theory",
+    "Maths",
+    "Physics/Feynman's Lectures",
+    "Databases/Untitled.canvas"
+  ]
+}

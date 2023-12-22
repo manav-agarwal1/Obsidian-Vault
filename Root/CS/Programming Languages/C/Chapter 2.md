@@ -1,0 +1,12 @@
+- In old C only first 8 characters of name was significant reflecting limit of identifier length in assembly language programming and run-time [[Linker]].
+- In modern C this limit has been extended to about 30 characters.
+- *int* indicates the natural size - size that could be loaded, computed and stored in a single machine instruction.
+- Be careful to distinguish between a character constant and a string that contains a single character: `'x'` is not the same as `"x"`. The former is a single character, used to produce the numeric value of the letter _x_ in the machine's character set. The latter is a character string that contains one character (the letter _x_) and a `\0`.
+- *External* and *Static* variables are initialized only once before executing of the program. They are by default initialized to 0.
+- Automatic variables if not initialized get garbage values by default.
+- `%` operator cannot be applied to *float* or *double*.
+- The C language does not strictly specify the order of evaluation for associative and commutative operators like `*` and `+`.
+- Compiler optimizations may lead to rearrangement of computations to improve performance.
+- It almost never makes a difference unless an expression contains a value computed in a function call or there is a pointer lookup to find a value for the computation that might fail.
+- If you are writing code that depends of the order of overflow, function calls, and pointer dereferences in a single mathematical expression - perhaps you _should_ break your expression into multiple statements.
+- 

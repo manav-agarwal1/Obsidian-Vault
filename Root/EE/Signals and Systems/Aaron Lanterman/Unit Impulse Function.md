@@ -52,8 +52,8 @@ $$
 \begin{align*} 
 & f(t) \cdot \delta(t-a) &&= f(a) \cdot \delta(t-a), \\ 
 & \text{Integrating on both sides from } -\infty \, \text{to} \, \infty, \\ 
-& \int_{-\infty}^{\infty} f(t) \cdot \delta(t-a) &&= \int_{-\infty}^{\infty} f(a) \cdot \delta(t-a), \\ 
-& &&= f(a) \int_{-\infty}^{\infty} \delta(t-a), \\ 
+& \int_{-\infty}^{\infty} f(t) \cdot \delta(t-a) \,dt &&= \int_{-\infty}^{\infty} f(a) \cdot \delta(t-a) \,dt, \\ 
+& &&= f(a) \int_{-\infty}^{\infty} \delta(t-a) \,dt, \\ 
 & &&= f(a). 
 \end{align*}
 $$

@@ -13,19 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "EE/Signals and Systems/Aaron Lanterman/Fourier Transforms - Special Cases.md",
+                "file": "EE/Signals and Systems/Aaron Lanterman/Fourier Transforms - Properties and Operations.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "2a41c9864be5e07f",
+            "id": "15a2afe836e712fe",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "EE/Signals and Systems/Aaron Lanterman/Unit Impulse Function.md",
+                "file": "EE/Signals and Systems/Aaron Lanterman/Rangefinding, Cross-Correlation, and Matched Filtering.md",
                 "mode": "source",
                 "source": false
               }
@@ -60,7 +60,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "causal",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -81,8 +81,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "b212cd0cbb55b5dc",
@@ -98,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "EE/Signals and Systems/Aaron Lanterman/Fourier Transforms - Special Cases.md",
+                "file": "EE/Signals and Systems/Aaron Lanterman/Fourier Transforms - Properties and Operations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "EE/Signals and Systems/Aaron Lanterman/Fourier Transforms - Special Cases.md",
+                "file": "EE/Signals and Systems/Aaron Lanterman/Fourier Transforms - Properties and Operations.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "EE/Signals and Systems/Aaron Lanterman/Fourier Transforms - Special Cases.md"
+                "file": "EE/Signals and Systems/Aaron Lanterman/Fourier Transforms - Properties and Operations.md"
               }
             }
           }
@@ -162,49 +161,49 @@
   },
   "active": "1f884063759f23c0",
   "lastOpenFiles": [
+    "Imgs/Pasted image 20231223004958.png",
+    "EE/Signals and Systems/Aaron Lanterman/Why LTI systems are awesome (Question Mark).md",
+    "EE/Signals and Systems/Aaron Lanterman/Rangefinding, Cross-Correlation, and Matched Filtering.md",
+    "EE/Signals and Systems/Aaron Lanterman/Contents.md",
+    "EE/Signals and Systems/Aaron Lanterman/System Properties.md",
+    "EE/Signals and Systems/Aaron Lanterman/Convolution - Special Cases.md",
+    "EE/Signals and Systems/Aaron Lanterman/Fourier Transforms - Properties and Operations.md",
+    "Imgs/Pasted image 20231223001816.png",
+    "Imgs/Pasted image 20231223001605.png",
+    "Imgs/Pasted image 20231223000114.png",
+    "Imgs/Pasted image 20231223000009.png",
+    "Imgs/Pasted image 20231222235850.png",
+    "EE/Signals and Systems/Aaron Lanterman/Convolution with Constant Chips.md",
+    "EE/Signals and Systems/Aaron Lanterman/Fourier Transforms - Special Cases.md",
+    "Tasks.md",
+    "Imgs/Pasted image 20231222205439.png",
+    "EE/Signals and Systems/Aaron Lanterman/Convolution - Flipping and Shifting.md",
+    "EE/Signals and Systems/Aaron Lanterman/Unit Impulse Function.md",
+    "EE/Signals and Systems/Aaron Lanterman/Fourier Series.md",
+    "EE/Signals and Systems/Aaron Lanterman/Cross Correlation with Constant Chips.md",
+    "EE/Signals and Systems/Aaron Lanterman/Frequency Response.md",
     "Imgs/Pasted image 20231222195409.png",
     "Imgs/Pasted image 20231222194829.png",
-    "EE/Signals and Systems/Aaron Lanterman/Unit Impulse Function.md",
-    "EE/Signals and Systems/Aaron Lanterman/Fourier Transforms - Special Cases.md",
-    "EE/Signals and Systems/Aaron Lanterman/Contents.md",
-    "Tasks.md",
-    "EE/Signals and Systems/Aaron Lanterman/Frequency Response.md",
     "CS/Programming Languages/C/Chapter 2.md",
     "Maths/Group Theory/Products.md",
     "Imgs/Pasted image 20231222190659.png",
     "Maths/Group Theory/Homomorphisms.md",
     "Imgs/Pasted image 20231222185430.png",
     "Maths/Group Theory/Langrange's Theorem.md",
-    "Imgs/Pasted image 20231222022933.png",
     "Chinese Reminder Theorem.md",
     "Maths/Group Theory/Cayley's Theorem.md",
     "Maths/Group Theory/Introduction.md",
-    "Imgs/Pasted image 20231222013645.png",
     "Maths/Group Theory/Contents.md",
     "CS/Programming Languages/C/Chapter 1.md",
     "CS/Programming Languages/C/Contents.md",
-    "Imgs/Pasted image 20231219192355.png",
-    "Imgs/Pasted image 20231219190406.png",
     "CS/Programming Languages/C/Introduction.md",
-    "Imgs/Pasted image 20231219141328.png",
-    "CS/Programming Languages/C.md",
     "CS/Programming Languages/C",
     "CS/Programming Languages",
-    "Imgs/Pasted image 20231218192546.png",
-    "Imgs/Pasted image 20231218192409.png",
-    "EE/Signals and Systems/Aaron Lanterman/Fourier Series.md",
-    "EE/Contents.md",
-    "Maths/Contents.md",
     "EE/Untitled.canvas",
-    "Physics/Physics_Constants.md",
     "CS/Systems and Networks",
-    "Physics/Random/Cause of Light.md",
     "EE",
     "CS",
-    "EE/Signals and Systems/Aaron Lanterman/Convolution - Special Cases.md",
-    "Maths/Group Theory/Contents/Homomorphisms.md",
     "Maths/Group Theory/Contents",
-    "EE/Signals and Systems/Aaron Lanterman/Convolution - Flipping and Shifting.md",
     "[[Maths",
     "Maths/Group Theory",
     "Maths",

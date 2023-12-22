@@ -1,2 +1,2 @@
 # Obsidian-Vault
-This Repo contains notes on various topics in Obsidian. Proper links to original source of youtube lecture or video are there in parent note of each topic to avoid copyright voilations.
+This Repo contains notes on various topics in Obsidian. Proper links to sources of youtube lectures or videos are in parent notes of each topic to avoid copyright violations.

@@ -84,3 +84,32 @@ Similarly,\,\,\, &\mathcal{F}(sin(\omega_0 t)) &&= j\pi.[\delta(\omega+\omega_0)
 \end{align*}
 $$
 ***
+# Boxcars and Sinc Functions
+
+![[Pasted image 20231222235850.png]]
+![[Pasted image 20231223000009.png]]
+These are called `sinc` functions.
+![[Pasted image 20231223000114.png]]
+`Boxcar` are used to do *windowing*, ie; offing it outside a window.
+`Boxcar` in frequency domain are used as filters.
+Limiting cases:
+![[Pasted image 20231223001605.png]]
+![[Pasted image 20231223001816.png]]
+`sinc` is *Fourier Transform* of `boxcars`, and we cant build `boxcars` in practice. So, these **zeros** in `sinc` graph represents the *frequencies* at which integer number of waveforms are sitting inside the `box`. The other *frequencies* are those which have some + and some - in `box`, but some of them don't get cancelled at the boundaries, so that leakage is what we see as small buldge in `sinc` graph.
+
+The frequency domain `sinc` is **ideal Low Pass Filter**. It is impossible to build ideal filters. For $t < 0$ it should be $0$ for our LTI system to be causal. But, we get non-zero so, it is not causal and we can't build in real life.
+
+*Eg*![[Pasted image 20231223004958.png]]
+***
+# Periodic Signals
+
+$$x(t) = \sum_{k\,=-\infty}^{\infty} a_k \cdot e^{j\omega_0kt}$$
+I can write any periodic signal $x(t)$ in above form, as discussed in [[Fourier Series]].
+$\omega_0 = \frac{2\pi}{T_0}$.
+We already know *Fourier Transform* of complex exponentials.
+And, *Fourier Transform* is a LTI operation.
+
+So, $$\mathcal{F}(x(t)) = \mathcal{F}(\sum_{k\,=-\infty}^{\infty} a_k \cdot e^{j\omega_0kt}) = \sum_{k\,=-\infty}^{\infty} 2\pi a_k\delta(\omega-k\omega_0)$$
+$a_k$ are *Fourier Series* coefficients.
+***
+

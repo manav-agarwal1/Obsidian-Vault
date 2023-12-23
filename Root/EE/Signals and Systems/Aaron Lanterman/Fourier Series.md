@@ -1,5 +1,5 @@
 Periodic functions can be written as sum of complex exponentials (complex sinusoids with frequency $\omega_0$)
-$x(t + T_0) = x(t)$, then $$x(t) = \sum_{k\,=-\infty}^{\infty} a_k \cdot e^{j\omega_0k}$$where, $$a_k = \frac{1}{T_0}\int_{T_0} x(t) \cdot e^{-j\omega_0kt} dt$$
+$x(t + T_0) = x(t)$, then $$x(t) = \sum_{k\,=-\infty}^{\infty} a_k \cdot e^{j\omega_0kt}$$where, $$a_k = \frac{1}{T_0}\int_{T_0} x(t) \cdot e^{-j\omega_0kt} dt$$
 where, $$\omega_0 = \frac{2\pi}{T_0} \tag{Fundamental Frequency}$$
 *Eg.*
 ![[Pasted image 20231213003013.png]]

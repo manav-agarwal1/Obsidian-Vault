@@ -13,19 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "EE/Signals and Systems/Aaron Lanterman/Fourier Transforms - Properties and Operations.md",
+                "file": "EE/Signals and Systems/Aaron Lanterman/Fourier Transforms - Special Cases.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "15a2afe836e712fe",
+            "id": "4fc7c26adc5372a1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "EE/Signals and Systems/Aaron Lanterman/Rangefinding, Cross-Correlation, and Matched Filtering.md",
+                "file": "EE/Signals and Systems/Aaron Lanterman/Fourier Series.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "EE/Signals and Systems/Aaron Lanterman/Fourier Transforms - Properties and Operations.md",
+                "file": "EE/Signals and Systems/Aaron Lanterman/Fourier Transforms - Special Cases.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "EE/Signals and Systems/Aaron Lanterman/Fourier Transforms - Properties and Operations.md",
+                "file": "EE/Signals and Systems/Aaron Lanterman/Fourier Transforms - Special Cases.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "EE/Signals and Systems/Aaron Lanterman/Fourier Transforms - Properties and Operations.md"
+                "file": "EE/Signals and Systems/Aaron Lanterman/Fourier Transforms - Special Cases.md"
               }
             }
           }
@@ -161,25 +161,26 @@
   },
   "active": "1f884063759f23c0",
   "lastOpenFiles": [
+    "EE/Signals and Systems/Aaron Lanterman/Fourier Series.md",
+    "EE/Signals and Systems/Aaron Lanterman/Fourier Transforms - Properties and Operations.md",
+    "EE/Signals and Systems/Aaron Lanterman/Fourier Transforms - Special Cases.md",
+    "Tasks.md",
+    "CS/Systems and Networks/Networks/TCP in Linux Kernel.md",
     "Imgs/Pasted image 20231223004958.png",
     "EE/Signals and Systems/Aaron Lanterman/Why LTI systems are awesome (Question Mark).md",
     "EE/Signals and Systems/Aaron Lanterman/Rangefinding, Cross-Correlation, and Matched Filtering.md",
     "EE/Signals and Systems/Aaron Lanterman/Contents.md",
     "EE/Signals and Systems/Aaron Lanterman/System Properties.md",
     "EE/Signals and Systems/Aaron Lanterman/Convolution - Special Cases.md",
-    "EE/Signals and Systems/Aaron Lanterman/Fourier Transforms - Properties and Operations.md",
     "Imgs/Pasted image 20231223001816.png",
     "Imgs/Pasted image 20231223001605.png",
     "Imgs/Pasted image 20231223000114.png",
     "Imgs/Pasted image 20231223000009.png",
     "Imgs/Pasted image 20231222235850.png",
     "EE/Signals and Systems/Aaron Lanterman/Convolution with Constant Chips.md",
-    "EE/Signals and Systems/Aaron Lanterman/Fourier Transforms - Special Cases.md",
-    "Tasks.md",
     "Imgs/Pasted image 20231222205439.png",
     "EE/Signals and Systems/Aaron Lanterman/Convolution - Flipping and Shifting.md",
     "EE/Signals and Systems/Aaron Lanterman/Unit Impulse Function.md",
-    "EE/Signals and Systems/Aaron Lanterman/Fourier Series.md",
     "EE/Signals and Systems/Aaron Lanterman/Cross Correlation with Constant Chips.md",
     "EE/Signals and Systems/Aaron Lanterman/Frequency Response.md",
     "Imgs/Pasted image 20231222195409.png",
@@ -188,7 +189,6 @@
     "Maths/Group Theory/Products.md",
     "Imgs/Pasted image 20231222190659.png",
     "Maths/Group Theory/Homomorphisms.md",
-    "Imgs/Pasted image 20231222185430.png",
     "Maths/Group Theory/Langrange's Theorem.md",
     "Chinese Reminder Theorem.md",
     "Maths/Group Theory/Cayley's Theorem.md",

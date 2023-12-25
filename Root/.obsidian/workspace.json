@@ -4,34 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "3ec51325f2f2b225",
+        "id": "034b8a5ed3c5e86b",
         "type": "tabs",
         "children": [
           {
-            "id": "1f884063759f23c0",
+            "id": "fbdb6457b915b878",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "EE/Signals and Systems/Aaron Lanterman/Fourier Transforms - Special Cases.md",
+                "file": "EE/Signals and Systems/Aaron Lanterman/Sampling in Time, Replication in Frequency.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "4fc7c26adc5372a1",
+            "id": "fe6faa1436e839ab",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "EE/Signals and Systems/Aaron Lanterman/Fourier Series.md",
+                "file": "Maths/Group Theory/Wrath of Math/Cosets.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -60,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "causal",
+                "query": "coset",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -97,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "EE/Signals and Systems/Aaron Lanterman/Fourier Transforms - Special Cases.md",
+                "file": "Maths/Group Theory/Wrath of Math/Cosets.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "EE/Signals and Systems/Aaron Lanterman/Fourier Transforms - Special Cases.md",
+                "file": "Maths/Group Theory/Wrath of Math/Cosets.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "EE/Signals and Systems/Aaron Lanterman/Fourier Transforms - Special Cases.md"
+                "file": "Maths/Group Theory/Wrath of Math/Cosets.md"
               }
             }
           }
@@ -159,55 +160,55 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1f884063759f23c0",
+  "active": "fe6faa1436e839ab",
   "lastOpenFiles": [
-    "EE/Signals and Systems/Aaron Lanterman/Fourier Series.md",
-    "EE/Signals and Systems/Aaron Lanterman/Fourier Transforms - Properties and Operations.md",
+    "Maths/Group Theory/Richard E Borcherds/Langrange's Theorem.md",
+    "Maths/Group Theory/Richard E Borcherds/Contents.md",
+    "Maths/Group Theory/Richard E Borcherds/Homomorphisms.md",
+    "Maths/Group Theory/Wrath of Math/Cosets.md",
+    "Maths/Group Theory/Richard E Borcherds",
+    "Maths/Group Theory/Wrath of Math/Contents.md",
+    "Maths/Group Theory/Wrath of Math",
+    "Maths/Contents.md",
+    "Maths/Group Theory/Extra",
+    "Maths/Group Theory/Richard E Borcherds/Products.md",
     "EE/Signals and Systems/Aaron Lanterman/Fourier Transforms - Special Cases.md",
+    "EE/Signals and Systems/Aaron Lanterman/Sampling in Time, Replication in Frequency.md",
+    "Imgs/Pasted image 20231225175950.png",
+    "Imgs/Pasted image 20231225175842.png",
+    "T.md",
+    "EE/Signals and Systems/Aaron Lanterman/Fourier Transforms - Properties and Operations.md",
+    "EE/Signals and Systems/Aaron Lanterman/Fourier Series.md",
+    "Imgs/Pasted image 20231225174419.png",
+    "Imgs/Pasted image 20231225174304.png",
+    "Imgs/Pasted image 20231225174108.png",
+    "Imgs/Pasted image 20231225173347.png",
+    "Imgs/Pasted image 20231225173119.png",
+    "Imgs/Pasted image 20231225173110.png",
+    "EE/Signals and Systems/Aaron Lanterman/Unit Impulse Function.md",
+    "EE/Signals and Systems/Aaron Lanterman/Convolution - Special Cases.md",
+    "Imgs/Pasted image 20231225170701.png",
+    "EE/Signals and Systems/Aaron Lanterman/Contents.md",
+    "CS/Coding Practice/Project Euler/Problem Review.md",
     "Tasks.md",
+    "Maths/Group Theory/Richard E Borcherds/Cayley's Theorem.md",
+    "CS/Coding Practice/Project Euler",
+    "CS/Coding Practice",
+    "EE/Signals and Systems/Aaron Lanterman/Amplitude Modulation for Communication.md",
+    "Imgs/Pasted image 20231223194653.png",
+    "EE/Signals and Systems/Aaron Lanterman/Convolution with Constant Chips.md",
     "CS/Systems and Networks/Networks/TCP in Linux Kernel.md",
-    "Imgs/Pasted image 20231223004958.png",
     "EE/Signals and Systems/Aaron Lanterman/Why LTI systems are awesome (Question Mark).md",
     "EE/Signals and Systems/Aaron Lanterman/Rangefinding, Cross-Correlation, and Matched Filtering.md",
-    "EE/Signals and Systems/Aaron Lanterman/Contents.md",
     "EE/Signals and Systems/Aaron Lanterman/System Properties.md",
-    "EE/Signals and Systems/Aaron Lanterman/Convolution - Special Cases.md",
-    "Imgs/Pasted image 20231223001816.png",
-    "Imgs/Pasted image 20231223001605.png",
-    "Imgs/Pasted image 20231223000114.png",
-    "Imgs/Pasted image 20231223000009.png",
-    "Imgs/Pasted image 20231222235850.png",
-    "EE/Signals and Systems/Aaron Lanterman/Convolution with Constant Chips.md",
-    "Imgs/Pasted image 20231222205439.png",
     "EE/Signals and Systems/Aaron Lanterman/Convolution - Flipping and Shifting.md",
-    "EE/Signals and Systems/Aaron Lanterman/Unit Impulse Function.md",
     "EE/Signals and Systems/Aaron Lanterman/Cross Correlation with Constant Chips.md",
-    "EE/Signals and Systems/Aaron Lanterman/Frequency Response.md",
-    "Imgs/Pasted image 20231222195409.png",
-    "Imgs/Pasted image 20231222194829.png",
-    "CS/Programming Languages/C/Chapter 2.md",
-    "Maths/Group Theory/Products.md",
-    "Imgs/Pasted image 20231222190659.png",
-    "Maths/Group Theory/Homomorphisms.md",
-    "Maths/Group Theory/Langrange's Theorem.md",
-    "Chinese Reminder Theorem.md",
-    "Maths/Group Theory/Cayley's Theorem.md",
-    "Maths/Group Theory/Introduction.md",
-    "Maths/Group Theory/Contents.md",
-    "CS/Programming Languages/C/Chapter 1.md",
-    "CS/Programming Languages/C/Contents.md",
-    "CS/Programming Languages/C/Introduction.md",
     "CS/Programming Languages/C",
     "CS/Programming Languages",
     "EE/Untitled.canvas",
     "CS/Systems and Networks",
     "EE",
     "CS",
-    "Maths/Group Theory/Contents",
-    "[[Maths",
-    "Maths/Group Theory",
-    "Maths",
-    "Physics/Feynman's Lectures",
     "Databases/Untitled.canvas"
   ]
 }

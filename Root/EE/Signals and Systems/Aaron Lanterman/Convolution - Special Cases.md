@@ -7,7 +7,7 @@ $$
 & &&= x(t-a).
 \end{align*}
 $$
-So, we can say, ***Convolution** is a group operation with **Impulse function** being the identity element. [[Maths/Group Theory/Contents|Group]] formed by **Convolution** is abelian.*$$x(t)*\delta(t) = x(t)$$
+So, we can say, ***Convolution** is a group operation with **Impulse function** being the identity element. [[Maths/Group Theory/Richard E Borcherds/Contents|Group]] formed by **Convolution** is abelian.*$$x(t)*\delta(t) = x(t)$$
 ***
 # Steps
 $$

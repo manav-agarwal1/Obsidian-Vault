@@ -46,7 +46,7 @@ $$
 $$
 $$
 \begin{align*}
-&\mathcal{F}\{\delta(t-t_0)\} &&\rightleftharpoons &&e^{-j\omega t} \\
+&\mathcal{F}\{\delta(t-t_0)\} &&\rightleftharpoons &&e^{-j\omega t_0} \\
 &\frac{1}{2\pi}e^{j\omega_0t} &&\rightleftharpoons &&\delta(\omega-\omega_0), \tag{OR}\\
 &e^{j\omega_0t} &&\rightleftharpoons &&2\pi \cdot \delta(\omega-\omega_0), \tag{Since, Fourier Transforms are Linear}
 \end{align*}
@@ -112,4 +112,3 @@ And, *Fourier Transform* is a LTI operation.
 So, $$\mathcal{F}(x(t)) = \mathcal{F}(\sum_{k\,=-\infty}^{\infty} a_k \cdot e^{j\omega_0kt}) = \sum_{k\,=-\infty}^{\infty} 2\pi a_k\delta(\omega-k\omega_0)$$
 $a_k$ are *Fourier Series* coefficients.
 ***
-

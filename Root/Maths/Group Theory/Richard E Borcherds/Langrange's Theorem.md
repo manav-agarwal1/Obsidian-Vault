@@ -14,7 +14,7 @@ So, for *eg*, order of $e = 1$.
 ***
 - If group has order $p$ where $p$ is prime, then groups can only have elements with order $1$ or $p$. So, if group has an element $g\in G$ of order $p$, then we can write $$G = \{1, g, g^2, ..., g^{p-1}\}$$
 	- So, $G$  is cyclic.
-	- There is obvious [[Maths/Group Theory/Homomorphisms|Isomorphism]] to $\mathbb{Z}/p\mathbb{Z}$
+	- There is obvious [[Homomorphisms|Isomorphism]] to $\mathbb{Z}/p\mathbb{Z}$
 	- So, this is classification of all groups with *prime order*.
 ***
 *In general, classification of group doesn't depend on the size of order, but on number of **prime factors** dividing the order.*
@@ -51,7 +51,7 @@ $$
 So, $g_2^{-1}g_1 \in H$, as it fixes $s$.
 So, $g_1 \in g_2H$, and this $g_2H$ is called **Left Coset of $H$**.
 Similarly, we can say $g_2 \in g_1H$.
-So, $g_1H = g_2H$. We can identity $s$ with **Left Cosets** of $H$.
+So, $g_1H = g_2H$. We can identity $s$ with **Left [[Cosets]]** of $H$.
 ie; For any $t \in S$, it corresponds to $\{g \in g \, | \, gs = t\}$. And, these are **Left Cosets**.
 If we have **Left Coset** $gH$, then we can get $gs$, not matter which element of the **Coset** we take.
 **Left Coset**: Elements of a set acted on by $g$.

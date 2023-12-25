@@ -160,8 +160,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fe6faa1436e839ab",
+  "active": "8dd9988f96718c9c",
   "lastOpenFiles": [
+    "CS/Books/Algorithmic Puzzle",
+    "CS/Books",
+    "CS/DSA/Algorithms Lab",
     "Maths/Group Theory/Richard E Borcherds/Langrange's Theorem.md",
     "Maths/Group Theory/Richard E Borcherds/Contents.md",
     "Maths/Group Theory/Richard E Borcherds/Homomorphisms.md",
@@ -202,13 +205,10 @@
     "EE/Signals and Systems/Aaron Lanterman/Rangefinding, Cross-Correlation, and Matched Filtering.md",
     "EE/Signals and Systems/Aaron Lanterman/System Properties.md",
     "EE/Signals and Systems/Aaron Lanterman/Convolution - Flipping and Shifting.md",
-    "EE/Signals and Systems/Aaron Lanterman/Cross Correlation with Constant Chips.md",
     "CS/Programming Languages/C",
     "CS/Programming Languages",
     "EE/Untitled.canvas",
     "CS/Systems and Networks",
-    "EE",
-    "CS",
     "Databases/Untitled.canvas"
   ]
 }

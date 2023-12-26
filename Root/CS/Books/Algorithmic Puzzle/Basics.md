@@ -1,0 +1,4 @@
+- Input defines *instance* of the puzzle: **Specific** or **General**.
+- **Exhaustive Search** - Try all possible candidates.
+	- Number of solutions grow **exponentially** with problem size.
+- **Backtracking** - 

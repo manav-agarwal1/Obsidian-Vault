@@ -46,4 +46,37 @@ Main lobe of `sinc` function entirely focuses on the sample point, and side lobe
 
 We assumed $x_s(t)$ is made up of **Dirac Delta Functions**. But a real **ADC**, would make signal a set of rectangles![[Pasted image 20231225175842.png]], ie; *hold a sampled value for a while*. You would put it through a **LPF**, it will be just smoothing out edges![[Pasted image 20231225175950.png]].
 ***
+# Replication in Time -- Sampling in Frequency
+
+Earlier we have seen that doing sampling in time, replicates the frequency response output at various frequencies after taking *Fourier Transform*. Now we will see it the other wat round.
+
+![[Pasted image 20231227180725.png]]
+One is periodic and other is not though result looks same. Not a coincidence.
+- *If I can write periodic signal like on left in term of something like on right then I can use **Fourier Transform** to find out **Fourier Series Coefficients***.
+
+If I have 
+$$
+\begin{align*}
+&x_p(t) &&= x_1(t) * p(t),\\ 
+& &&= x(t) * \sum_{n=-\infty}^{\infty}\delta(t-nT_s),\\
+& &&= \sum_{n=-\infty}^{\infty}x_1(t)*\delta(t-nT_s), \\
+& &&= \sum_{n=-\infty}^{\infty}x_1(t-nT_s).
+\end{align*}
+$$where $p(t)$ is the *Impulse Train*.
+Now, in Frequency Domain, 
+$$
+\begin{align*}
+&X_p(j\omega) &&= \frac{1}{2\pi}X_1(j\omega) \cdot P(j\omega),\\ 
+& &&= \frac{1}{2\pi}X_1(j\omega) \cdot \sum_{k=-\infty}^{\infty}\frac{2\pi}{T_s}\delta(\omega - k\frac{2\pi}{T_s}),\\
+& &&= \frac{1}{T_s}X_1(j\omega) \cdot \sum_{k=-\infty}^{\infty}\delta(\omega - k\frac{2\pi}{T_s}),\\
+& &&= \frac{1}{T_s} \sum_{k=-\infty}^{\infty}X_1(j\frac{2\pi}{T_s}k)\cdot\delta(\omega - k\frac{2\pi}{T_s}). \tag{Sifting Property}\\
+\end{align*}
+$$
+If I compare it with [[Fourier Transforms - Special Cases]], for periodic signals expression then $$a_k = \frac{1}{T_s}X_1(j\frac{2\pi}{T_s}k)$$
+This is the thing that provides link between *Fourier Transform* of $x_1(t)$ and *Fourier Series* of $x_p(t)$.
+Though this only helps if you either Series of one or Transform of other available, else, just find what you need.
+***
+*Eg*. Suppose you want to find out how a particular protein was shaped. If you pass X-ray to that and use a photographic plate then you get some diffraction pattern, if you do some math over it then you will get some equations that look a lot like a Fourier Transform, after some approximations. We crystalize proteins before X-ray.![[Pasted image 20231227185311.png]]
+So, we have a periodic structure for protein and we get sampling in frequency domain of diffraction.
+***
 

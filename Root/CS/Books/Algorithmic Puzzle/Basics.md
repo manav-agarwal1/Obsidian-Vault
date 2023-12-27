@@ -41,4 +41,5 @@
 		- Tough to find a *monovariant*.
 		- Important algorithms like *Simplex Methods* are based on this.
 	- [[Lemonade Stand Placement]], [[Site Selection Puzzle]], [[Positive Changes]].
-- **Dynamic Programming** - 
+- **Dynamic Programming** - Technique to handle overlapping subproblems.
+	- [[Shortest Path Counting]], [[Blocked Paths Puzzle]], [[Maximum Sum Descent]], [[Picking Up Coins]].

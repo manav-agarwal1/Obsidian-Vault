@@ -1,0 +1,60 @@
+{
+  "filters": {
+    "doShowOrphans": false,
+    "doShowAttachments": false
+  },
+  "groups": {
+    "groups": [
+      {
+        "query": "Maths",
+        "color": "#ff0000"
+      },
+      {
+        "query": "EE",
+        "color": "#00ff00"
+      },
+      {
+        "query": "CS",
+        "color": "#0000ff"
+      },
+      {
+        "query": "Physics",
+        "color": "#ffdd00"
+      },
+      {
+        "query": "Books",
+        "color": "#ffffff"
+      },
+      {
+        "query": "Physics/Random",
+        "color": "#df9834"
+      },
+      {
+        "query": "EE/Signals and Systems",
+        "color": "#7de87f"
+      },
+      {
+        "query": "CS/AI",
+        "color": "#6966ea"
+      },
+      {
+        "query": "Maths/Group Theory",
+        "color": "#e95858"
+      },
+      {
+        "query": "Books/CS",
+        "color": "#a09fd5"
+      },
+      {
+        "query": "CS/DSA",
+        "color": "#040890"
+      }
+    ]
+  },
+  "display": {
+    "nodeSize": 3,
+    "linkThickness": 2,
+    "particleSize": 6,
+    "particleCount": 5
+  }
+}

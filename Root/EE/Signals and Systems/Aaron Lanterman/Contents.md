@@ -14,10 +14,12 @@
 12. [[Cross Correlation with Constant Chips]]
 13. [[Autocorrelation, Pulse Compression, Barker Codes]]
 14. [[Fourier Series]]
-15. [[Fourier Transforms - Special Cases]]
+15. [[Fourier Transforms]]
 16. [[Frequency Response]]
 17. [[Fourier Transforms - Properties and Operations]]
 18. [[Amplitude Modulation for Communication]]
 19. [[Sampling in Time, Replication in Frequency]]
 20. [[Baseband Representation of Bandlimited Signals]]
-21. 
+21. [[Laplace Transforms]]
+22. [[Laplace Transforms - Properties and Operations]]
+23.  

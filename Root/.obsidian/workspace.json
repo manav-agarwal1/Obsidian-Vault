@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "EE/Signals and Systems/Aaron Lanterman/Contents.md",
+                "file": "EE/Signals and Systems/Aaron Lanterman/Laplace Transforms - Properties and Operations.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "EE/Signals and Systems/Aaron Lanterman/Contents.md",
+                "file": "EE/Signals and Systems/Aaron Lanterman/Laplace Transforms - Properties and Operations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "EE/Signals and Systems/Aaron Lanterman/Contents.md",
+                "file": "EE/Signals and Systems/Aaron Lanterman/Laplace Transforms - Properties and Operations.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "EE/Signals and Systems/Aaron Lanterman/Contents.md"
+                "file": "EE/Signals and Systems/Aaron Lanterman/Laplace Transforms - Properties and Operations.md"
               }
             }
           }
@@ -139,6 +139,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "3d-graph:3D Graph": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -149,6 +150,13 @@
   },
   "active": "91dc634ca436183b",
   "lastOpenFiles": [
+    "EE/Signals and Systems/Aaron Lanterman/Laplace Transforms - Properties and Operations.md",
+    "Books/CS",
+    "Books",
+    "EE/Signals and Systems/Aaron Lanterman/Fourier Transforms.md",
+    "EE/Signals and Systems/Aaron Lanterman/Contents.md",
+    "EE/Signals and Systems/Aaron Lanterman/Fourier Transforms - Properties and Operations.md",
+    "EE/Signals and Systems/Aaron Lanterman/Laplace Transforms.md",
     "EE/Signals and Systems/Aaron Lanterman/Baseband Representation of Bandlimited Signals.md",
     "Imgs/Pasted image 20231228164548.png",
     "Imgs/Pasted image 20231228164208.png",
@@ -156,7 +164,6 @@
     "Imgs/Pasted image 20231228163800.png",
     "Imgs/Pasted image 20231228163642.png",
     "Imgs/Pasted image 20231228163230.png",
-    "EE/Signals and Systems/Aaron Lanterman/Contents.md",
     "Extra/History/The Entire History of Human Civilizations.md",
     "Extra/History/Battles/Battles of Kadesh.md",
     "Extra/History/Treaties/Treaty of Kadesh.md",
@@ -174,26 +181,20 @@
     "EE/Signals and Systems/Aaron Lanterman/Unit Step Function.md",
     "EE/Signals and Systems/Aaron Lanterman/Convolution - Flipping and Shifting.md",
     "Imgs/Pasted image 20231227180725.png",
-    "CS/Books/Algorithmic Puzzle/Basics.md",
-    "CS/Books/Algorithmic Puzzle/Ferrying Soldier.md",
-    "CS/Books/Algorithmic Puzzle/Untitled.md",
-    "CS/Books/Algorithmic Puzzle/Celebrity Problem.md",
-    "CS/Books/Algorithmic Puzzle/N-Queens.md",
+    "Books/CS/Algorithmic Puzzle/Basics.md",
+    "Books/CS/Algorithmic Puzzle/Ferrying Soldier.md",
+    "Books/CS/Algorithmic Puzzle/Untitled.md",
+    "Books/CS/Algorithmic Puzzle/Celebrity Problem.md",
+    "Books/CS/Algorithmic Puzzle/N-Queens.md",
     "Extra/Econ and Fin/Fundamentals of Finance & Economics.md",
     "Imgs/Pasted image 20231226172013.png",
     "Extra",
     "CS/Programming Languages/C/Contents.md",
     "Maths/Group Theory/Wrath of Math/Cosets.md",
-    "CS/Books/Algorithmic Puzzle",
+    "Books/CS/Algorithmic Puzzle",
     "CS/Books",
-    "CS/DSA/Algorithms Lab",
     "Maths/Group Theory/Richard E Borcherds/Langrange's Theorem.md",
     "Maths/Group Theory/Richard E Borcherds/Contents.md",
-    "Maths/Group Theory/Richard E Borcherds/Homomorphisms.md",
-    "Maths/Group Theory/Richard E Borcherds",
-    "Maths/Group Theory/Wrath of Math/Contents.md",
-    "Maths/Contents.md",
-    "Maths/Group Theory/Richard E Borcherds/Products.md",
     "EE/Untitled.canvas",
     "Databases/Untitled.canvas"
   ]

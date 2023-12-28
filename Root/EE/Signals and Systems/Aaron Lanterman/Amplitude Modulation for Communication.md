@@ -7,7 +7,7 @@ $m(t) = x(t) cos(\omega_c t)$
 `cosine` is the **carrier**.
 We assume that $x(t)$ is *band limited* to some highest frequency $\omega_b$![[Pasted image 20231223190753.png]].
 We can also assume x(t) is real-values so, this diagram is drawn with *conjugate symmetry*.
-We know [[EE/Signals and Systems/Aaron Lanterman/Fourier Transforms - Special Cases#Sinusoids|Fourier Transform]] of `cosine`.
+We know [[Fourier Transforms#Sinusoids|Fourier Transform]] of `cosine`.
 $$
 \begin{align*}
 &M(j\omega) &&= \frac{1}{2\pi}X(j\omega)*\pi.[\delta(\omega-\omega_c)] + \delta(\omega+\omega_c)]\\

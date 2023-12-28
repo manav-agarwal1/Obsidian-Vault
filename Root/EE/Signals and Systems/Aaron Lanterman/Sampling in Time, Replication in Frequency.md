@@ -72,7 +72,7 @@ $$
 & &&= \frac{1}{T_s} \sum_{k=-\infty}^{\infty}X_1(j\frac{2\pi}{T_s}k)\cdot\delta(\omega - k\frac{2\pi}{T_s}). \tag{Sifting Property}\\
 \end{align*}
 $$
-If I compare it with [[Fourier Transforms - Special Cases]], for periodic signals expression then $$a_k = \frac{1}{T_s}X_1(j\frac{2\pi}{T_s}k)$$
+If I compare it with [[Fourier Transforms]], for periodic signals expression then $$a_k = \frac{1}{T_s}X_1(j\frac{2\pi}{T_s}k)$$
 This is the thing that provides link between *Fourier Transform* of $x_1(t)$ and *Fourier Series* of $x_p(t)$.
 Though this only helps if you either Series of one or Transform of other available, else, just find what you need.
 ***

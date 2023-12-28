@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "79abd6765e0a9ed2",
+        "id": "608ed21a8406b590",
         "type": "tabs",
         "children": [
           {
-            "id": "91dc634ca436183b",
+            "id": "9c557f8d538ebc7f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tasks.md",
+                "file": "EE/Signals and Systems/Aaron Lanterman/Contents.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tasks.md",
+                "file": "EE/Signals and Systems/Aaron Lanterman/Contents.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tasks.md",
+                "file": "EE/Signals and Systems/Aaron Lanterman/Contents.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tasks.md"
+                "file": "EE/Signals and Systems/Aaron Lanterman/Contents.md"
               }
             }
           }
@@ -148,15 +148,23 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "91dc634ca436183b",
+  "active": "9c557f8d538ebc7f",
   "lastOpenFiles": [
+    "EE/Signals and Systems/Aaron Lanterman/Fourier Transforms - Properties and Operations.md",
     "EE/Signals and Systems/Aaron Lanterman/Laplace Transforms - Properties and Operations.md",
+    "Imgs/Pasted image 20231228202641.png",
+    "EE/Signals and Systems/Aaron Lanterman/Laplace Transforms.md",
+    "EE/Signals and Systems/Aaron Lanterman/Introduction.md",
+    "EE/Signals and Systems/Aaron Lanterman/Convolution - Special Cases.md",
+    "EE/Signals and Systems/Aaron Lanterman/Convolution with Constant Chips.md",
+    "Imgs/Pasted image 20231228193434.png",
+    "Imgs/Pasted image 20231228192940.png",
+    "EE/Signals and Systems/Aaron Lanterman/Contents.md",
+    "EE/Signals and Systems/Aaron Lanterman/Fourier Transforms.md",
+    "EE/Contents.md",
+    "Tasks.md",
     "Books/CS",
     "Books",
-    "EE/Signals and Systems/Aaron Lanterman/Fourier Transforms.md",
-    "EE/Signals and Systems/Aaron Lanterman/Contents.md",
-    "EE/Signals and Systems/Aaron Lanterman/Fourier Transforms - Properties and Operations.md",
-    "EE/Signals and Systems/Aaron Lanterman/Laplace Transforms.md",
     "EE/Signals and Systems/Aaron Lanterman/Baseband Representation of Bandlimited Signals.md",
     "Imgs/Pasted image 20231228164548.png",
     "Imgs/Pasted image 20231228164208.png",
@@ -172,29 +180,21 @@
     "Extra/History/Battles/Untitled",
     "Extra/History/Battles",
     "Untitled.md",
-    "Tasks.md",
     "Extra/History",
     "Extra/Econ and Fin",
     "EE/Signals and Systems/Aaron Lanterman/Sampling in Time, Replication in Frequency.md",
-    "Imgs/Pasted image 20231227185311.png",
     "EE/Signals and Systems/Aaron Lanterman/Unit Impulse Function.md",
     "EE/Signals and Systems/Aaron Lanterman/Unit Step Function.md",
     "EE/Signals and Systems/Aaron Lanterman/Convolution - Flipping and Shifting.md",
-    "Imgs/Pasted image 20231227180725.png",
     "Books/CS/Algorithmic Puzzle/Basics.md",
     "Books/CS/Algorithmic Puzzle/Ferrying Soldier.md",
     "Books/CS/Algorithmic Puzzle/Untitled.md",
     "Books/CS/Algorithmic Puzzle/Celebrity Problem.md",
     "Books/CS/Algorithmic Puzzle/N-Queens.md",
     "Extra/Econ and Fin/Fundamentals of Finance & Economics.md",
-    "Imgs/Pasted image 20231226172013.png",
     "Extra",
-    "CS/Programming Languages/C/Contents.md",
-    "Maths/Group Theory/Wrath of Math/Cosets.md",
     "Books/CS/Algorithmic Puzzle",
     "CS/Books",
-    "Maths/Group Theory/Richard E Borcherds/Langrange's Theorem.md",
-    "Maths/Group Theory/Richard E Borcherds/Contents.md",
     "EE/Untitled.canvas",
     "Databases/Untitled.canvas"
   ]

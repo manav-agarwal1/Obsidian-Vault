@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "EE/Signals and Systems/Aaron Lanterman/Laplace Transforms - Properties and Operations.md",
+                "file": "Tasks.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "EE/Signals and Systems/Aaron Lanterman/Laplace Transforms - Properties and Operations.md",
+                "file": "Tasks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "EE/Signals and Systems/Aaron Lanterman/Laplace Transforms - Properties and Operations.md",
+                "file": "Tasks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "EE/Signals and Systems/Aaron Lanterman/Laplace Transforms - Properties and Operations.md"
+                "file": "Tasks.md"
               }
             }
           }

@@ -94,7 +94,6 @@
 		- *City States* like **Troy, Mycenae, and Pylos** started to grow.
 		- First remnants of **Linear B**.
 		- First record of **Indo-European Record**.
-
 - **Mexico** -
 	- **Olmec Civilization (1200 - 400 BCE)**-
 		- First civilization in the Americas.

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "EE/Signals and Systems/Aaron Lanterman/Baseband Representation of Bandlimited Signals.md",
+                "file": "EE/Signals and Systems/Aaron Lanterman/Contents.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "EE/Signals and Systems/Aaron Lanterman/Baseband Representation of Bandlimited Signals.md",
+                "file": "EE/Signals and Systems/Aaron Lanterman/Contents.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "EE/Signals and Systems/Aaron Lanterman/Baseband Representation of Bandlimited Signals.md",
+                "file": "EE/Signals and Systems/Aaron Lanterman/Contents.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "EE/Signals and Systems/Aaron Lanterman/Baseband Representation of Bandlimited Signals.md"
+                "file": "EE/Signals and Systems/Aaron Lanterman/Contents.md"
               }
             }
           }
@@ -149,6 +149,13 @@
   },
   "active": "91dc634ca436183b",
   "lastOpenFiles": [
+    "EE/Signals and Systems/Aaron Lanterman/Baseband Representation of Bandlimited Signals.md",
+    "Imgs/Pasted image 20231228164548.png",
+    "Imgs/Pasted image 20231228164208.png",
+    "Imgs/Pasted image 20231228163900.png",
+    "Imgs/Pasted image 20231228163800.png",
+    "Imgs/Pasted image 20231228163642.png",
+    "Imgs/Pasted image 20231228163230.png",
     "EE/Signals and Systems/Aaron Lanterman/Contents.md",
     "Extra/History/The Entire History of Human Civilizations.md",
     "Extra/History/Battles/Battles of Kadesh.md",
@@ -161,7 +168,6 @@
     "Tasks.md",
     "Extra/History",
     "Extra/Econ and Fin",
-    "EE/Signals and Systems/Aaron Lanterman/Baseband Representation of Bandlimited Signals.md",
     "EE/Signals and Systems/Aaron Lanterman/Sampling in Time, Replication in Frequency.md",
     "Imgs/Pasted image 20231227185311.png",
     "EE/Signals and Systems/Aaron Lanterman/Unit Impulse Function.md",
@@ -175,12 +181,6 @@
     "CS/Books/Algorithmic Puzzle/N-Queens.md",
     "Extra/Econ and Fin/Fundamentals of Finance & Economics.md",
     "Imgs/Pasted image 20231226172013.png",
-    "Imgs/Pasted image 20231226162353.png",
-    "Imgs/Pasted image 20231226161421.png",
-    "Imgs/Pasted image 20231226160707.png",
-    "Imgs/Pasted image 20231226160652.png",
-    "Imgs/Pasted image 20231226160351.png",
-    "Imgs/Pasted image 20231226135542.png",
     "Extra",
     "CS/Programming Languages/C/Contents.md",
     "Maths/Group Theory/Wrath of Math/Cosets.md",

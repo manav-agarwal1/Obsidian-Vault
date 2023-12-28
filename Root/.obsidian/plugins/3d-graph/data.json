@@ -26,8 +26,8 @@
         "color": "#ffffff"
       },
       {
-        "query": "Physics/Random",
-        "color": "#df9834"
+        "query": "Extra",
+        "color": "#f40bec"
       },
       {
         "query": "EE/Signals and Systems",
@@ -43,11 +43,15 @@
       },
       {
         "query": "Books/CS",
-        "color": "#a09fd5"
+        "color": "#9598fe"
       },
       {
         "query": "CS/DSA",
         "color": "#040890"
+      },
+      {
+        "query": "Physics/Random",
+        "color": "#df9834"
       }
     ]
   },

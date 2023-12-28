@@ -47,7 +47,7 @@ Group is collection of symmetries of an object and we can even look at symmetrie
 ***
 # Goal of Group Theory
 
-1. Classify all groups up to [[Isomorphism]].
+1. Classify all groups up to [[Maths/Group Theory/Richard E Borcherds/Homomorphisms|Isomorphisms]].
 	-  Sometimes two groups are "Really Same"
 	- If we have a function $f: G \to H$ such that,
 		- $f$ is a bijection

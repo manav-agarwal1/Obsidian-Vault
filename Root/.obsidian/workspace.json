@@ -4,22 +4,43 @@
     "type": "split",
     "children": [
       {
-        "id": "608ed21a8406b590",
+        "id": "fe6db40d5b7e28c6",
         "type": "tabs",
         "children": [
           {
-            "id": "9c557f8d538ebc7f",
+            "id": "08a4f4c758a9d793",
+            "type": "leaf",
+            "state": {
+              "type": "3d_graph_view",
+              "state": {}
+            }
+          },
+          {
+            "id": "43154433e5b7cf7e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "EE/Signals and Systems/Aaron Lanterman/Contents.md",
+                "file": "Maths/Group Theory/Richard E Borcherds/Normal Subgroups and Quotient Subgroups.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7853fec95e0c0fa4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Maths/Group Theory/Richard E Borcherds/Langrange's Theorem.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -69,7 +90,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "b212cd0cbb55b5dc",
@@ -85,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "EE/Signals and Systems/Aaron Lanterman/Contents.md",
+                "file": "Maths/Group Theory/Richard E Borcherds/Normal Subgroups and Quotient Subgroups.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "EE/Signals and Systems/Aaron Lanterman/Contents.md",
+                "file": "Maths/Group Theory/Richard E Borcherds/Normal Subgroups and Quotient Subgroups.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "EE/Signals and Systems/Aaron Lanterman/Contents.md"
+                "file": "Maths/Group Theory/Richard E Borcherds/Normal Subgroups and Quotient Subgroups.md"
               }
             }
           }
@@ -148,10 +170,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9c557f8d538ebc7f",
+  "active": "43154433e5b7cf7e",
   "lastOpenFiles": [
-    "EE/Signals and Systems/Aaron Lanterman/Partial Fractions with Unique Roots.md",
+    "Maths/Group Theory/Richard E Borcherds/Langrange's Theorem.md",
+    "Maths/Group Theory/Richard E Borcherds/Cayley's Theorem.md",
+    "Maths/Group Theory/Richard E Borcherds/Normal Subgroups and Quotient Subgroups.md",
+    "Maths/Group Theory/Richard E Borcherds/Products.md",
+    "Maths/Group Theory/Richard E Borcherds/Homomorphisms.md",
+    "Maths/Group Theory/Richard E Borcherds/Contents.md",
+    "Maths/Group Theory/Richard E Borcherds/Introduction.md",
     "EE/Signals and Systems/Aaron Lanterman/Contents.md",
+    "EE/Signals and Systems/Aaron Lanterman/Partial Fractions with Unique Roots.md",
     "Extra/History/The Entire History of Human Civilizations.md",
     "EE/Signals and Systems/Aaron Lanterman/Fourier Transforms - Properties and Operations.md",
     "EE/Signals and Systems/Aaron Lanterman/Laplace Transforms - Properties and Operations.md",
@@ -186,13 +215,6 @@
     "EE/Signals and Systems/Aaron Lanterman/Sampling in Time, Replication in Frequency.md",
     "EE/Signals and Systems/Aaron Lanterman/Unit Impulse Function.md",
     "EE/Signals and Systems/Aaron Lanterman/Unit Step Function.md",
-    "EE/Signals and Systems/Aaron Lanterman/Convolution - Flipping and Shifting.md",
-    "Books/CS/Algorithmic Puzzle/Basics.md",
-    "Books/CS/Algorithmic Puzzle/Ferrying Soldier.md",
-    "Books/CS/Algorithmic Puzzle/Untitled.md",
-    "Books/CS/Algorithmic Puzzle/Celebrity Problem.md",
-    "Books/CS/Algorithmic Puzzle/N-Queens.md",
-    "Extra/Econ and Fin/Fundamentals of Finance & Economics.md",
     "Extra",
     "Books/CS/Algorithmic Puzzle",
     "CS/Books",

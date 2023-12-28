@@ -52,7 +52,7 @@ So, $g_2^{-1}g_1 \in H$, as it fixes $s$.
 So, $g_1 \in g_2H$, and this $g_2H$ is called **Left Coset of $H$**.
 Similarly, we can say $g_2 \in g_1H$.
 So, $g_1H = g_2H$. We can identity $s$ with **Left [[Cosets]]** of $H$.
-ie; For any $t \in S$, it corresponds to $\{g \in g \, | \, gs = t\}$. And, these are **Left Cosets**.
+ie; For any $t \in S$, it corresponds to $\{g \in G \, | \, gs = t\}$. And, these are **Left Cosets**.
 If we have **Left Coset** $gH$, then we can get $gs$, not matter which element of the **Coset** we take.
 **Left Coset**: Elements of a set acted on by $g$.
 **Right Coset**: *Eg:* $Hg$.

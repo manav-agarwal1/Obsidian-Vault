@@ -15,7 +15,7 @@ Group is collection of symmetries and this theorem provides us the abstraction t
 	- So, there is an obvious action of $G$ on itself.
 		- $g(s) = gs$
 	- $G$ is the subgroup of the permutations of $S$.
-		- Because, anything we do from $G$ to do to $S$ it will eventually result in something that is a permutation of $S$.
+		- Because, anything we do from $G$ to $S$ it will eventually result in something that is a permutation of $S$.
 Here $G$ is symmetries of $S$.
 
 *Eg:* $G$ = symmetries of Octahedron ($24$ elements)
@@ -55,7 +55,7 @@ When we talk about symmetries we mean *Left action of $G$*
 **Proof**: $$f(s) = f(1s) = f(1)s$$
 So, $f$ is just $f(1) \in G$. So, any symmetry of $G$ with its right action is element of $G$. So, any symmetry of $G$ along with its right action is element of $G$.
 
-**Caution** $G$ doesn't preserve group action on $S$. That would be saying g(ab) = (ga)(gb) which is not always true.
+**Caution** $G$ doesn't preserve group action on $S$. That would be saying g(ab) = (ga)(gb) which is not always true. That would be special case of [[Homomorphisms]].
 
 **Result:**
 **So, $G$ doesn't preserve the structure of $S$, but it preserves the Right action of $G$ on $S$**.

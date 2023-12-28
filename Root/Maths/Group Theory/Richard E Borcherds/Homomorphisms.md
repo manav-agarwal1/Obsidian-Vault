@@ -2,7 +2,7 @@
 - For any $\{a, b\} \in G$,  $f(ab)=f(a)f(b)$
 	- Consequence of this is: $f(e_G) = e_H$
 	- Consequence of this is: For any $a \in G$, $f(a^{-1}) = f(a)^{-1}$
-It preserves the group structure. There is a reference to all this in [[Cayley's Theorem]].
+It preserves the group structure.
 
 It is called an **Isomorphism** if $f$ is a *bijection*.
 It is called an **Automorphism** if $f$ is **Isomorphism** from $G \to G$ (Symmetries of groups). And set of **Automorphism** is itself a group as it is group of symmetries of something.

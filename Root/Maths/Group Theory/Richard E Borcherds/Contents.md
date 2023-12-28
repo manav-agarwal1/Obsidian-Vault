@@ -6,4 +6,5 @@
 *Book1: Generators and Relations for Discrete Groups - Moser, Coxeter*
 4. [[Langrange's Theorem]]
 5. [[Products]]
-6. 
+6. [[Normal Subgroups and Quotient Subgroups]]
+7. 

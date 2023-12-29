@@ -95,6 +95,14 @@ $3 \implies 4$
 Trivial
 
 $4 \implies 5$
+If we have $gH = Hg$ then we partition $G$ implying existence of $G/H$.
 
+$5 \implies 1$
+can define a **homomorphism** from $G$ to $G/H$,  such that $f(x) = xH$, and trivially, $H$ is $ker(f)$.
+
+Hence, all above conditions are equivalent.
+***
+Size of $G/H$ is index of $H$ in $G$ or, $\frac{|G|}{|H|}$.
+***
 
 

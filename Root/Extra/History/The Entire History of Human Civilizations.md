@@ -69,7 +69,19 @@
 				- **The Emperor's Virtue determines his right to rule**.
 				- **No one Dynasty has a permanent right to rule**.
 			- Famines, droughts, etc were taken as sign of dynasty loosing **Mandate from Heaven**.
-			- 
+				- This is how **Shang Dynasty** fell and **Zhou Dynasty** came.
+			- Led new style of Governance leading to another pyramid.
+				- $King \gt Lords \gt Soldiers \gt Peasants$
+				- All profit to King and all work to masses.
+			- Towards its end *Eastern Philosophy* came.
+				- **Confucius** created this system called **Confucianism**.
+					- *Respect + Loyalty + Responsibility*.
+					- Central Concept called **Li**, which means, *Rituals, Customs and Manners*.
+				- **Lao Tzi** created **Taoism**.
+					- **Tao** means *the way* or *the path*.
+					- Individuals should align themselves with the natural flow of the universe.
+					- One of the most famous idea is of **Yin and Yan**, representing complementary and interdependent forces in nature.
+					- Balance leads to *harmony* and *fulfilment*.
 - **Turkey** -
 	- **Hittite Civilization / Labarnas** -
 		- Under rule of **Labarnas** (1680 - 1650 BCE).
@@ -87,16 +99,55 @@
 			- Took throne after death of **Mutwalli II**.
 			- He along with **Remesses II** signed [[Treaty of Kadesh]]
 - **Greece** -
-	- **Mycenaean Civilization**(1600 - 1100 BC) -
-		- Extensive palace centered states with hierarchical political, social and economic systems.
-		- Each city was on its own.
-		- There was a King as head.
-		- *City States* like **Troy, Mycenae, and Pylos** started to grow.
-		- First remnants of **Linear B**.
-		- First record of **Indo-European Record**.
+	- **Ancient Greece** -
+		- **Mycenaean Civilization**(1600 - 1100 BC) -
+			- Extensive palace centered states with hierarchical political, social and economic systems.
+			- Each city was on its own.
+			- There was a King as head.
+			- *City States* like **Troy, Mycenae, and Pylos** started to grow.
+			- First remnants of **Linear B**.
+			- First record of **Indo-European Record**.
+		- **Colonization** -
+			- Cities started to grew.
+			- They realized they are occupying infertile land.
+			- They needed import, so they colonized the world around them.
+			- **Miletus** - Had over $90$ colonies throughout Europe, producing food for the Greeks.
+			- At its height **Greece** had colonies from **Marseilles (France)** to **Rostov-on-don (Russia)**.
+			- **Rome** -
+				- **Romulus** and **Remus**, twins abandon by parent in *River Tibet*. Female wolf discovered them and nursed them. Then they found city they were discovered by wolf and fought to decide after which the city will be named. Then Romulus killed Remus in $753$ BC, and **Rome** was created. (*OLD LEGEND*).
+		- **Sparta and Athens** -
+			- $2$ cities at forefront of power.
+			- **Sparta** = Military powerhouse.
+				- They believed in physical strength and war. Newborns would be slaughtered if they were not healthy.
+				- Entire life was around war.
+					- *Aristocrats* - Politics.
+					- *free Non-citizens* - No rights, but had to fight in military.
+					- *helots* - prisoners of war turned slaves.
+			- **Athens** = Experimenting with **Democracy**.
+				- Very complicated democracy = 2 branches of the *council of 500* and *the assembly*.
+				- Athens made up of 10 tribes. Random selection for council. Each tribe give 50 citizens per year.
+				- In assembly every citizen has a vote
+					- For citizen - male, no slave, born in Athens or to Athenian parents.
+					- Chaos as many people had a vote.
+					- 9 presidents elected in the morning overlooked at the order.
+				- **Plato** considered **Athenian Democracy** to be barbaric.
+					- He raised question about random people of society having power as they can't contribute much.
+					- He advocated for **Philosopher King**.
 - **Mexico** -
 	- **Olmec Civilization (1200 - 400 BCE)**-
 		- First civilization in the Americas.
 		- Not much is known about them.
 		- 17 colossal stone heads.
+- **Persia** -
+	- **Start of Persia** -
+		- While these state were colonizing **Cyrus - The Great (590 - 530 BC)** wanted to take on an empire. Grandson of **Astyages of Medes**. Was given to Shephard by Astyages's Chief advisor when he was ordered to kill him due to Astyages dream of Cyrus revolting against him. Then Cyrus after growing up revolted. And, Astyages surrendered in 550 BC.
+			- He even conquered **Babylon** and became supreme ruler of **Mesopotamia**. Even the **Indus Valley Civilization**.
+			- This empire came to known as **Persia**.
+		- Then he died leaving it all to **Darius - The Great**
+- **India** - 
+	- **Magadha** -
+		- Spoiled prince named **Siddhartha Gautama (500 BCE)** had the world at his foot.
+		- Then he went outside palace compound, he was in shock.
+		- He realized death is inevitable, so, he left luxury to pursue *knowledge*.
+		- After 6 years from meditation he reached enlightenment and came to know as **Buddha**.
 		- 

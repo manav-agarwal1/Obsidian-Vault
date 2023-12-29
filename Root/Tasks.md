@@ -59,4 +59,4 @@
 # Books
 
 - [ ] Computer Age Statistical Inference
-- [ ] 
+- [ ] Harvard Classics 50 Volumes

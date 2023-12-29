@@ -16,3 +16,4 @@ So, the intersection on presence of two saucers case is handled very well here, 
 - So, if we take a long pulse then that puts a lot of energy on target but have mediocre resolution.
 - TRADEOFF: **Resolution vs Energy on Target (Signal to Noise Ratio)** 
 - So, waveform like we have in images is good as it has narrow peaks but puts a lot of energy on target. This trick is called **Pulse Compression**. The one we are using in **Length-5 Barker Code**.![[Pasted image 20231212184439.png]]
+***

@@ -1,6 +1,6 @@
 
 [Signals and Systems - Aaron Lanterman](https://www.youtube.com/playlist?list=PLOunECWxELQRYwsuj4BL4Hu1nvj9dxRQ6)
-1. [[EE/Signals and Systems/Aaron Lanterman/Introduction]]
+1. [[EE/Signals and Systems/Aaron Lanterman/Introduction|Introduction]]
 2. [[Unit Step Function]]
 3. [[Unit Impulse Function]]
 4. [[Calculus on Step and Impulse Function]]

@@ -15,7 +15,7 @@ $$
 \end{equation}
 $$
 To get, [[Unit Step Function]]. But, we can normally get away by just writing $t$.
-So, we are sayin that, $$\frac{d}{dt}u(t) = \delta(t)$$But a big caveat is that $RHS$ is a [[Generalized Function]]. And, it only makes sense when we do a integral on both side in which case we arrive to *...1*. 
+So, we are saying that, $$\frac{d}{dt}u(t) = \delta(t)$$But a big caveat is that $RHS$ is a [[Generalized Function]]. And, it only makes sense when we do a integral on both side in which case we arrive to *...1*. 
 
 
 *Eg* $$\frac{d}{dt}cos(\pi t) \cdot u(t) = \,\,?$$

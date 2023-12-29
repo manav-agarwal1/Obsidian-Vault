@@ -7,7 +7,7 @@ It preserves the group structure.
 It is called an **Isomorphism** if $f$ is a *bijection*.
 It is called an **Automorphism** if $f$ is **Isomorphism** from $G \to G$ (Symmetries of groups). And set of **Automorphism** is itself a group as it is group of symmetries of something.
 **Kernel of $f$** = $\{a \in G \,|\, f(a) = e_H\}$
-
+* *Homomorphism preserves group action, whereas Isomorphism preserve group structure as well*.
 ***
 *Eg:* $f(x) = e^{x}$, 
 $e^{x+y} = e^xe^y$

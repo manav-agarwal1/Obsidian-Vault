@@ -7,4 +7,5 @@
 4. [[Langrange's Theorem]]
 5. [[Products]]
 6. [[Normal Subgroups and Quotient Subgroups]]
-7. 
+7. [[Semidirect Product]]
+8. 

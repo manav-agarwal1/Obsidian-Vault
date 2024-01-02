@@ -55,3 +55,16 @@ $$
 \end{align*}
 $$
 
+***
+# Long Division
+
+*Degree of Numerator is greater than Denominator.*
+$$
+\begin{align*}
+&Y(s) &&= \frac{s^3 + 6s^2 + 12s + 66}{s^3 + 4s^2 + 9s + 36}, \\
+& &&= 1 + \frac{2s^2 + 3s + 30}{s^3 + 4s^2 + 9s + 36}, \\
+& &&= 1 + \frac{2s^2 + 3s + 30}{(s+4)(s^2 + 9)}, \\
+
+\end{align*}
+$$
+

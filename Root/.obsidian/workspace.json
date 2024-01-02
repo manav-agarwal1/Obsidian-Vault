@@ -13,19 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "EE/Signals and Systems/Aaron Lanterman/Contents.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "be64999ed7024669",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tasks.md",
+                "file": "EE/Signals and Systems/Aaron Lanterman/Transfer Functions.md",
                 "mode": "source",
                 "source": false
               }
@@ -39,8 +27,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -90,7 +77,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "b212cd0cbb55b5dc",
@@ -106,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tasks.md",
+                "file": "EE/Signals and Systems/Aaron Lanterman/Transfer Functions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tasks.md",
+                "file": "EE/Signals and Systems/Aaron Lanterman/Transfer Functions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tasks.md"
+                "file": "EE/Signals and Systems/Aaron Lanterman/Transfer Functions.md"
               }
             }
           }
@@ -166,15 +154,23 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "be64999ed7024669",
+  "active": "8dd9988f96718c9c",
   "lastOpenFiles": [
-    "Unconfirmed 16954.crdownload",
+    "Excalidraw/Drawing 2024-01-02 18.05.43.excalidraw.md",
+    "EE/Signals and Systems/Aaron Lanterman/Transfer Functions.md",
+    "Excalidraw",
     "EE/Signals and Systems/Aaron Lanterman/Contents.md",
-    "Tasks.md",
     "EE/Signals and Systems/Aaron Lanterman/Partial Fractions.md",
+    "EE/Signals and Systems/Aaron Lanterman/First-Order System with Switched-On sine wave input.md",
+    "Tasks.md",
+    "EE/Signals and Systems/Aaron Lanterman/Decaying Sine Wave - Residue Method vs Completing Square.md",
+    "EE/Signals and Systems/Aaron Lanterman/Laplace Transforms.md",
+    "Imgs/Pasted image 20240102171746.png",
+    "Unconfirmed 16954.crdownload",
     "EE/Signals and Systems/Aaron Lanterman/Partial Fractions with Unique and Repeated Roots.md",
     "EE/Signals and Systems/Aaron Lanterman/Partial Fractions with Repeated Roots.md",
     "Maths/Group Theory/Richard E Borcherds/Semidirect Product.md",
@@ -185,8 +181,6 @@
     "Maths/Group Theory/Richard E Borcherds/Langrange's Theorem.md",
     "Maths/Group Theory/Wrath of Math/Normal Subgroup.md",
     "o.md",
-    "Tasks.md",
-    "EE/Signals and Systems/Aaron Lanterman/Laplace Transforms.md",
     "EE/Signals and Systems/Aaron Lanterman/Laplace Transforms - Properties and Operations.md",
     "Books/CS/Algorithmic Puzzle/Basics.md",
     "Books/CS/Algorithmic Puzzle/Glove Selection.md",
@@ -196,8 +190,6 @@
     "EE/Signals and Systems/Aaron Lanterman/Autocorrelation, Pulse Compression, Barker Codes.md",
     "EE/Signals and Systems/Aaron Lanterman/Rangefinding, Cross-Correlation, and Matched Filtering.md",
     "EE/Signals and Systems/Aaron Lanterman/Cross Correlation with Constant Chips.md",
-    "EE/Signals and Systems/Aaron Lanterman/Convolution - Flipping and Shifting.md",
-    "EE/Signals and Systems/Aaron Lanterman/System Properties.md",
     "Imgs/Pasted image 20231228202641.png",
     "Imgs/Pasted image 20231228193434.png",
     "Imgs/Pasted image 20231228192940.png",
@@ -208,15 +200,12 @@
     "Imgs/Pasted image 20231228163900.png",
     "Imgs/Pasted image 20231228163800.png",
     "Imgs/Pasted image 20231228163642.png",
-    "Imgs/Pasted image 20231228163230.png",
     "Extra/History/Treaties",
     "Extra/History/Battles/Untitled",
     "Extra/History/Battles",
     "Extra/History",
     "Extra/Econ and Fin",
     "Extra",
-    "Books/CS/Algorithmic Puzzle",
-    "CS/Books",
     "EE/Untitled.canvas",
     "Databases/Untitled.canvas"
   ]

@@ -56,6 +56,7 @@
 - [ ] Introduction to Quantum Computing
 - [ ] GreatAudioBooks
 - [ ] dLabRoboticsMIT
+- [ ] ASIP-Lab
 
 
 # Books

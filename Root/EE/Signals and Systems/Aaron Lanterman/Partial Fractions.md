@@ -1,3 +1,4 @@
+# Unique Roots
 RHS can be thought of input to the system.
 *Earlier we said **system** mapped input to output, but now we introduce concept of **state** in the system*.
 **State** - Initial conditions.
@@ -40,5 +41,17 @@ $\dot{y}(0) = \frac{4}{7} + \frac{3}{7} = 1 = \dot{y}(0^-)$. So, **Left continui
 
 *It would get strange if input is not $u(t)$ but $\delta(t)$*.
 ***
-
+# Repeated Roots
+[Article Link](https://lpsa.swarthmore.edu/BackGround/PartialFraction/RootsRepeat.html)
+***
+# Unique and Repeated Roots
+*Eg*:
+$$
+\begin{align*}
+&Y(s) &&= \frac{1}{(s+1)(s+2)^2}, \\
+& &&= \frac{?}{s+1} + \frac{?}{s+2} + \frac{?}{(s+2)^2}, \\
+& &&= \frac{1}{s+1} + \frac{-1}{s+2} + \frac{-1}{(s+2)^2}. \\\\
+&y(t) &&= [e^{-t} - (1+t)e^{-2t}]u(t), t \ge 0
+\end{align*}
+$$
 

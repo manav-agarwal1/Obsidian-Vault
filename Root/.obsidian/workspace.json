@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "be64999ed7024669",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tasks.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "460925ccc3eac20d",
             "type": "leaf",
             "state": {
@@ -27,7 +39,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "EE/Signals and Systems/Aaron Lanterman/Contents.md",
+                "file": "Tasks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "EE/Signals and Systems/Aaron Lanterman/Contents.md",
+                "file": "Tasks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "EE/Signals and Systems/Aaron Lanterman/Contents.md"
+                "file": "Tasks.md"
               }
             }
           }
@@ -156,12 +169,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ea3120b7406d8fdd",
+  "active": "be64999ed7024669",
   "lastOpenFiles": [
+    "Unconfirmed 16954.crdownload",
+    "EE/Signals and Systems/Aaron Lanterman/Contents.md",
+    "Tasks.md",
     "EE/Signals and Systems/Aaron Lanterman/Partial Fractions.md",
     "EE/Signals and Systems/Aaron Lanterman/Partial Fractions with Unique and Repeated Roots.md",
     "EE/Signals and Systems/Aaron Lanterman/Partial Fractions with Repeated Roots.md",
-    "EE/Signals and Systems/Aaron Lanterman/Contents.md",
     "Maths/Group Theory/Richard E Borcherds/Semidirect Product.md",
     "Imgs/Pasted image 20240101200723.png",
     "Maths/Group Theory/Richard E Borcherds/Normal Subgroups and Quotient Subgroups.md",
@@ -183,8 +198,6 @@
     "EE/Signals and Systems/Aaron Lanterman/Cross Correlation with Constant Chips.md",
     "EE/Signals and Systems/Aaron Lanterman/Convolution - Flipping and Shifting.md",
     "EE/Signals and Systems/Aaron Lanterman/System Properties.md",
-    "EE/Signals and Systems/Aaron Lanterman/Shifting, Scaling, and Mirroring Signals.md",
-    "EE/Signals and Systems/Aaron Lanterman/Calculus on Step and Impulse Function.md",
     "Imgs/Pasted image 20231228202641.png",
     "Imgs/Pasted image 20231228193434.png",
     "Imgs/Pasted image 20231228192940.png",

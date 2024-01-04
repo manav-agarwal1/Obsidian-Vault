@@ -57,6 +57,10 @@
 - [ ] GreatAudioBooks
 - [ ] dLabRoboticsMIT
 - [ ] ASIP-Lab
+- [ ] Kosmo
+- [ ] Musavir Khaliq
+- [ ] Dr. Randy Davila
+- [ ] 
 
 
 # Books

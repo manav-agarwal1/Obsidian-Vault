@@ -8,23 +8,15 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ea3120b7406d8fdd",
+            "id": "e458c5fdb6a2bc5b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "EE/Signals and Systems/Aaron Lanterman/Transfer Functions.md",
+                "file": "EE/Signals and Systems/Aaron Lanterman/Transfer Functions and Frequency Response.md",
                 "mode": "source",
                 "source": false
               }
-            }
-          },
-          {
-            "id": "460925ccc3eac20d",
-            "type": "leaf",
-            "state": {
-              "type": "3d_graph_view",
-              "state": {}
             }
           }
         ]
@@ -94,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "EE/Signals and Systems/Aaron Lanterman/Transfer Functions.md",
+                "file": "EE/Signals and Systems/Aaron Lanterman/Transfer Functions and Frequency Response.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "EE/Signals and Systems/Aaron Lanterman/Transfer Functions.md",
+                "file": "EE/Signals and Systems/Aaron Lanterman/Transfer Functions and Frequency Response.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "EE/Signals and Systems/Aaron Lanterman/Transfer Functions.md"
+                "file": "EE/Signals and Systems/Aaron Lanterman/Transfer Functions and Frequency Response.md"
               }
             }
           }
@@ -158,17 +150,26 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "8dd9988f96718c9c",
+  "active": "e458c5fdb6a2bc5b",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2024-01-02 18.05.43.excalidraw.md",
-    "EE/Signals and Systems/Aaron Lanterman/Transfer Functions.md",
-    "Excalidraw",
+    "Imgs/Pasted image 20240104163325.png",
+    "Imgs/Pasted image 20240104163219.png",
     "EE/Signals and Systems/Aaron Lanterman/Contents.md",
+    "EE/Signals and Systems/Aaron Lanterman/Transfer Functions and Frequency Response.md",
+    "EE/Signals and Systems/Aaron Lanterman/Poles and Stability.md",
+    "EE/Signals and Systems/Aaron Lanterman/System Properties.md",
     "EE/Signals and Systems/Aaron Lanterman/Partial Fractions.md",
-    "EE/Signals and Systems/Aaron Lanterman/First-Order System with Switched-On sine wave input.md",
-    "Tasks.md",
     "EE/Signals and Systems/Aaron Lanterman/Decaying Sine Wave - Residue Method vs Completing Square.md",
     "EE/Signals and Systems/Aaron Lanterman/Laplace Transforms.md",
+    "EE/Signals and Systems/Aaron Lanterman/Convolution with Constant Chips.md",
+    "Tasks.md",
+    "Imgs/photo.png",
+    "CS/Full Stack Development/Introduction.md",
+    "CS/Full Stack Development",
+    "EE/Signals and Systems/Aaron Lanterman/Transfer Functions.md",
+    "Excalidraw/Drawing 2024-01-02 18.05.43.excalidraw.md",
+    "Excalidraw",
+    "EE/Signals and Systems/Aaron Lanterman/First-Order System with Switched-On sine wave input.md",
     "Imgs/Pasted image 20240102171746.png",
     "Unconfirmed 16954.crdownload",
     "EE/Signals and Systems/Aaron Lanterman/Partial Fractions with Unique and Repeated Roots.md",
@@ -184,12 +185,6 @@
     "EE/Signals and Systems/Aaron Lanterman/Laplace Transforms - Properties and Operations.md",
     "Books/CS/Algorithmic Puzzle/Basics.md",
     "Books/CS/Algorithmic Puzzle/Glove Selection.md",
-    "Books/CS/Algorithmic Puzzle/Rectangle Dimension.md",
-    "Books/CS/Algorithmic Puzzle/Untitled.md",
-    "Books/CS/Algorithmic Puzzle/A Wolf, a Goat, and a Cabbage.md",
-    "EE/Signals and Systems/Aaron Lanterman/Autocorrelation, Pulse Compression, Barker Codes.md",
-    "EE/Signals and Systems/Aaron Lanterman/Rangefinding, Cross-Correlation, and Matched Filtering.md",
-    "EE/Signals and Systems/Aaron Lanterman/Cross Correlation with Constant Chips.md",
     "Imgs/Pasted image 20231228202641.png",
     "Imgs/Pasted image 20231228193434.png",
     "Imgs/Pasted image 20231228192940.png",
@@ -198,14 +193,11 @@
     "Imgs/Pasted image 20231228164548.png",
     "Imgs/Pasted image 20231228164208.png",
     "Imgs/Pasted image 20231228163900.png",
-    "Imgs/Pasted image 20231228163800.png",
-    "Imgs/Pasted image 20231228163642.png",
     "Extra/History/Treaties",
     "Extra/History/Battles/Untitled",
     "Extra/History/Battles",
     "Extra/History",
     "Extra/Econ and Fin",
-    "Extra",
     "EE/Untitled.canvas",
     "Databases/Untitled.canvas"
   ]

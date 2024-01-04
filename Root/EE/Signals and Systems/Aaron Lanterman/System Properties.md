@@ -69,3 +69,4 @@ All the places I am referencing, should lie below $y=x$ line.
 ***
 # Stability
 We will look into this from the POV of **BIBO (Bounded Input, Bounded Output)**.
+Look further in [[Poles and Stability]].

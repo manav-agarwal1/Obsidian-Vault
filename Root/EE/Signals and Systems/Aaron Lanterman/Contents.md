@@ -24,7 +24,8 @@
 21. [[Laplace Transforms]]
 22. [[Laplace Transforms - Properties and Operations]]
 23. [[Partial Fractions]]
-24. [[Decaying Sine Wave - Residue Method vs Completing Square]]
-25. [[First-Order System with Switched-On sine wave input]]
-26. [[Transfer Functions]]
-27. 
+24. [[First-Order System with Switched-On sine wave input]]
+25. [[Transfer Functions]]
+26. [[Poles and Stability]]
+27. [[Transfer Functions and Frequency Response]]
+28. 

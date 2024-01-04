@@ -1,3 +1,4 @@
+
 [Group Theory - Richard E Borcherds](https://www.youtube.com/playlist?list=PL8yHsr3EFj51pjBvvCPipgAT3SYpIiIsJ)
 1. [[Maths/Group Theory/Richard E Borcherds/Introduction|Introduction]]
 2. [[Cayley's Theorem]]
@@ -8,4 +9,6 @@
 5. [[Products]]
 6. [[Normal Subgroups and Quotient Subgroups]]
 7. [[Semidirect Product]]
-8. 
+- [ ] *Please look at facts in this lecture $8$ and complete proofs*
+8. [[Extensions]]
+9. 

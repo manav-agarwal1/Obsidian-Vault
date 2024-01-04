@@ -41,7 +41,7 @@ So, first one corresponds to $\{1, (1\,2)\}$, and second one to $\{1, (1\, 2\, 3
 ***
 **Goal**: We can use this to classify groups $G$ of **Order $6$**. We have to show that $G$ has to be some sort of **semidirect product**.
 1. $G$ has an element $g \in G$ **Order 3**: 
-	-  this has to be there as by [[Langrange's Theorem]] elements in $G$ can have order $1, 2, 3, 6$.
+	- this has to be there as by [[Langrange's Theorem]] elements in $G$ can have order $1, 2, 3, 6$.
 	- If there is an element of order $6$ then it is cyclic and certainly has element of order $3$ which is $g^2$. 
 	- Now suppose there is no element of order $6$ or $3$ then it will have $2$ as only non-identity order, then it implies $g^2 = 1$ so, every element is its inverse and it is abelian, then we get $\{e, h_1, h_2, h_1h_2\}$ as subgroup of $G$ but it has order $4$ and $4$ doesn't divide $6$ and so,*by contradiction*, there should be element of order $3$.
 	- We get $\{1, g, g^2\}$ to be one subgroup and its *index* comes out to be $6/3 = 2$, and all subgroups of *Index $2$* are **Normal**.

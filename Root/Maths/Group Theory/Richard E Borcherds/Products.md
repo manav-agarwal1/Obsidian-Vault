@@ -44,6 +44,7 @@
 	- $A \to B$, has **kernel** $0$ and **image** $A$.
 	- $B \to C$, has **kernel** $A$ and **image** $C$.
 	- We can write it multiplicatively as well, using $1$ instead of $0$.
+	- $A$ will be **isomorphic** to some subgroup of $G$ and $G/A$ ([[Quotient Subgroup]]) will be **isomorphic** to $C$.
 - One trivial case is $0 \to A \to A \times B \to B \to 0$. (**SPLIT EXACT SEQUENCE**)
 ***
 We can write $0 \to \mathcal{Z}/2\mathcal{Z} \to \mathcal{Z}/4\mathcal{Z} \to \mathcal{Z}/2\mathcal{Z} \to 0$. (**NON-SPLIT EXACT SEQUENCE**)

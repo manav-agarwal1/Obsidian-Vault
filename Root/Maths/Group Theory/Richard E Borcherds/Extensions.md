@@ -1,3 +1,4 @@
+[[Group Theory - Semidirect products, extensions|Supplementary Notes]]
 - **Order 8**: Elements of $G$ has order dividing $8$ ie; $1,2,4,8$
 	- It will have element with **order $2$**: 
 		- Let there be an element $a$ of order $8$ then $a^8 = e \implies (a^4)^2 = e$. So, $a^4$ has order $2$.

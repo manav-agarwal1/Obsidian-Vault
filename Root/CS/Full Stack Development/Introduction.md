@@ -25,4 +25,21 @@ It defines structure of the website (what to be placed, where to be placed).
 HTML gives us tools to create but not to style.
 
 **Attributes** = Sometimes we need to achieve some function and for that we put attributes in tags.
+***
+# CSS
+
+It lets you add style to website for better look and feel.
+It also lets you position element on the website.
+Common CSS attributes:
+- color
+- background
+- border-radius
+- border
+- padding / margin
+- box-shadow
+- float: Dumb old way to position
+- flex-box: new way
+	- We can let $2$ div right next to each other: `style="display: flex;`
+	- `style="display: flex; justify-content: flex-start`; default
+	- 
 

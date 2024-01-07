@@ -13,34 +13,18 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Maths/Group Theory/Group Theory - Semidirect products, extensions.md",
+                "file": "CS/Coding Practice/Project Euler/Problem Review.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "d6b6ca3b56a17f67",
+            "id": "70213b2302642634",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Maths/Group Theory/Richard E Borcherds/Extensions.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ed1b0489ff4a2ecc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Maths/Group Theory/Wrath of Math/Quotient Subgroup.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "3d_graph_view",
+              "state": {}
             }
           }
         ]
@@ -109,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Maths/Group Theory/Group Theory - Semidirect products, extensions.md",
+                "file": "CS/Coding Practice/Project Euler/Problem Review.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Maths/Group Theory/Group Theory - Semidirect products, extensions.md",
+                "file": "CS/Coding Practice/Project Euler/Problem Review.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Maths/Group Theory/Group Theory - Semidirect products, extensions.md"
+                "file": "CS/Coding Practice/Project Euler/Problem Review.md"
               }
             }
           }
@@ -175,8 +159,13 @@
   },
   "active": "c4507b2f62afb918",
   "lastOpenFiles": [
-    "Maths/Group Theory/Richard E Borcherds/Extensions.md",
+    "CS/DSA/AdHoc/Sieve of Eratosthenes.md",
+    "CS/DSA/AdHoc/Fermat's Test.md",
+    "CS/DSA/AdHoc/AKS Test.md",
+    "CS/Full Stack Development/Introduction.md",
+    "CS/DSA/AdHoc",
     "Maths/Group Theory/Group Theory - Semidirect products, extensions.md",
+    "Maths/Group Theory/Richard E Borcherds/Extensions.md",
     "Maths/Group Theory/Richard E Borcherds/Homomorphisms.md",
     "Maths/Group Theory/Wrath of Math/First Isomorphism Theorem.md",
     "Maths/Group Theory/Wrath of Math/Contents.md",
@@ -199,12 +188,8 @@
     "EE/Signals and Systems/Aaron Lanterman/Poles and Stability.md",
     "EE/Signals and Systems/Aaron Lanterman/System Properties.md",
     "EE/Signals and Systems/Aaron Lanterman/Decaying Sine Wave - Residue Method vs Completing Square.md",
-    "EE/Signals and Systems/Aaron Lanterman/Laplace Transforms.md",
-    "EE/Signals and Systems/Aaron Lanterman/Convolution with Constant Chips.md",
     "Imgs/photo.png",
-    "CS/Full Stack Development/Introduction.md",
     "CS/Full Stack Development",
-    "EE/Signals and Systems/Aaron Lanterman/Transfer Functions.md",
     "Excalidraw",
     "Imgs/Pasted image 20240102171746.png",
     "Unconfirmed 16954.crdownload",
@@ -220,7 +205,6 @@
     "Extra/History/Battles/Untitled",
     "Extra/History/Battles",
     "Extra/History",
-    "Extra/Econ and Fin",
     "EE/Untitled.canvas",
     "Databases/Untitled.canvas"
   ]

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/Coding Practice/Project Euler/Problem Review.md",
+                "file": "Maths/Group Theory/Group Theory - Semidirect products, extensions.md",
                 "mode": "source",
                 "source": false
               }
@@ -23,8 +23,12 @@
             "id": "70213b2302642634",
             "type": "leaf",
             "state": {
-              "type": "3d_graph_view",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Maths/Group Theory/Richard E Borcherds/Products.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -93,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/Coding Practice/Project Euler/Problem Review.md",
+                "file": "Maths/Group Theory/Group Theory - Semidirect products, extensions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/Coding Practice/Project Euler/Problem Review.md",
+                "file": "Maths/Group Theory/Group Theory - Semidirect products, extensions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS/Coding Practice/Project Euler/Problem Review.md"
+                "file": "Maths/Group Theory/Group Theory - Semidirect products, extensions.md"
               }
             }
           }
@@ -159,25 +163,26 @@
   },
   "active": "c4507b2f62afb918",
   "lastOpenFiles": [
+    "Maths/Group Theory/Richard E Borcherds/Products.md",
+    "Maths/Group Theory/Richard E Borcherds/Contents.md",
+    "Maths/Group Theory/Richard E Borcherds/Cayley's Theorem.md",
+    "Maths/Group Theory/Richard E Borcherds/Langrange's Theorem.md",
+    "Maths/Group Theory/Richard E Borcherds/Homomorphisms.md",
+    "Maths/Group Theory/Group Theory - Semidirect products, extensions.md",
+    "Maths/Group Theory/Wrath of Math/First Isomorphism Theorem.md",
+    "CS/Coding Practice/Project Euler/Problem Review.md",
     "CS/DSA/AdHoc/Sieve of Eratosthenes.md",
     "CS/DSA/AdHoc/Fermat's Test.md",
     "CS/DSA/AdHoc/AKS Test.md",
     "CS/Full Stack Development/Introduction.md",
     "CS/DSA/AdHoc",
-    "Maths/Group Theory/Group Theory - Semidirect products, extensions.md",
     "Maths/Group Theory/Richard E Borcherds/Extensions.md",
-    "Maths/Group Theory/Richard E Borcherds/Homomorphisms.md",
-    "Maths/Group Theory/Wrath of Math/First Isomorphism Theorem.md",
     "Maths/Group Theory/Wrath of Math/Contents.md",
     "Maths/Group Theory/Wrath of Math/Quotient Subgroup.md",
     "Maths/Group Theory/Wrath of Math/Normal Subgroup.md",
     "Maths/Group Theory/Wrath of Math/Cosets.md",
     "Maths/Group Theory/Richard E Borcherds/Normal Subgroups and Quotient Subgroups.md",
     "Maths/Group Theory/Richard E Borcherds/Semidirect Product.md",
-    "Maths/Group Theory/Richard E Borcherds/Products.md",
-    "Maths/Group Theory/Richard E Borcherds/Contents.md",
-    "Maths/Group Theory/Richard E Borcherds/Cayley's Theorem.md",
-    "Maths/Group Theory/Richard E Borcherds/Langrange's Theorem.md",
     "Maths/Contents.md",
     "Tasks.md",
     "EE/Signals and Systems/Aaron Lanterman/Partial Fractions.md",
@@ -187,7 +192,6 @@
     "Imgs/Pasted image 20240104163219.png",
     "EE/Signals and Systems/Aaron Lanterman/Poles and Stability.md",
     "EE/Signals and Systems/Aaron Lanterman/System Properties.md",
-    "EE/Signals and Systems/Aaron Lanterman/Decaying Sine Wave - Residue Method vs Completing Square.md",
     "Imgs/photo.png",
     "CS/Full Stack Development",
     "Excalidraw",

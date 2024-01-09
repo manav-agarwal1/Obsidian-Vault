@@ -1,4 +1,4 @@
-[Video Link](https://www.youtube.com/watch?v=Xz7_QJ-sIVk)
+- [x] [Video Link](https://www.youtube.com/watch?v=Xz7_QJ-sIVk) ✅ 2024-01-09
 **Motivation**: For groups $G$ and $H$ **direct product** is defined by $G\times H$, such that, $$(g_1, h_1)*(g_2, h_2) = (g_1g_2, h_1h_2)$$Now, here the `*` is the new operation and $g_1g_2$ are following $G$ operation and $h_1h_2$ following $H$ operation. *We abused notation here*.
 
 We have a trivial **Homomorphism**:
@@ -67,7 +67,20 @@ If $\iota$ be the **Inclusion Map**, and $N$ be **Normal Subgroup** of $G$ and $
 $$ 0 \to N \xrightarrow{\iota} G \xrightarrow{\pi} G/N\to 0$$
 This *archetypical* example of **short exact sequences**.
 ***
-[Video-2 Link](https://www.youtube.com/watch?v=tFmbJEaEx3Q)
+- [ ] [Video-2 Link](https://www.youtube.com/watch?v=tFmbJEaEx3Q)
+**Splitting Lemma**: $$O \to A \xrightarrow{\iota} B \xrightarrow{\pi} C$$
+Then following three conditions are equivalent:
+- *Left Split*: $\exists \, \beta : B \to A$ such that, $\beta \circ \iota = e_A$.
+- *Right Split*: $\exists \, \alpha: C \to B$ such that, $\pi \circ \alpha = e_C$.
+- *Direct Sum*: $B \cong A \oplus C$.
+***
+$$ 0 \to N \xrightarrow{\iota} G \xrightarrow{\pi} G/N\to 0$$
+A short **exact sequence** is said to **split** if $\exists$ a group **Homomorphism** $\alpha : H \to g$ so that $\pi \circ \alpha = e_H$.
+**Claim**: $G$ is a **semidirect product** of $N$ and $H$ $\iff$ $G$ is a **Split extension** of $N$ by $H$.
+
+
+
+
 
 
 

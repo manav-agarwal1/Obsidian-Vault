@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/Coding Practice/Project Euler/Problem Review.md",
+                "file": "EE/Signals and Systems/Aaron Lanterman/Contents.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Maths/Group Theory/Richard E Borcherds/Products.md",
+                "file": "EE/Signals and Systems/Aaron Lanterman/Partial Fractions.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/Coding Practice/Project Euler/Problem Review.md",
+                "file": "EE/Signals and Systems/Aaron Lanterman/Contents.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/Coding Practice/Project Euler/Problem Review.md",
+                "file": "EE/Signals and Systems/Aaron Lanterman/Contents.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS/Coding Practice/Project Euler/Problem Review.md"
+                "file": "EE/Signals and Systems/Aaron Lanterman/Contents.md"
               }
             }
           }
@@ -163,12 +163,32 @@
   },
   "active": "c4507b2f62afb918",
   "lastOpenFiles": [
+    "EE/Signals and Systems/Aaron Lanterman/Canonical Second Order Filters.md",
+    "EE/Signals and Systems/Aaron Lanterman/Contents.md",
+    "Imgs/Pasted image 20240115011851.png",
+    "Imgs/Pasted image 20240115011630.png",
+    "Imgs/Pasted image 20240115011453.png",
+    "Imgs/Pasted image 20240115011333.png",
+    "Imgs/Pasted image 20240115011223.png",
+    "Imgs/Pasted image 20240115005011.png",
+    "EE/Signals and Systems/Aaron Lanterman/Partial Fractions.md",
+    "Imgs/Pasted image 20240115003445.png",
+    "Maths/Group Theory/Richard E Borcherds/Products.md",
+    "Imgs/Pasted image 20240115002528.png",
+    "Imgs/Pasted image 20240114193911.png",
+    "EE/Signals and Systems/Aaron Lanterman/First-Order System with Switched-On sine wave input.md",
+    "Tasks.md",
+    "EE/Signals and Systems/Aaron Lanterman/Damped Oscillations and Resonant Response.md",
+    "Imgs/Pasted image 20240114191008.png",
+    "Untitled.md",
+    "Maths/Group Theory/Thomas W. Judson/Intro.md",
+    "CS/Coding Practice/Project Euler/Problem Review.md",
+    "Maths/Group Theory/Thomas W. Judson",
+    "Maths/Group Theory/Richard E Borcherds/Untitled",
     "CS/DSA/AdHoc/Miller-Rabin Primality Test.md",
     "CS/DSA/AdHoc/Fermat's Test.md",
-    "CS/Coding Practice/Project Euler/Problem Review.md",
     "CS/DSA/AdHoc/Sieve of Eratosthenes.md",
     "Maths/Group Theory/Group Theory - Semidirect products, extensions.md",
-    "Maths/Group Theory/Richard E Borcherds/Products.md",
     "Maths/Group Theory/Richard E Borcherds/Contents.md",
     "Maths/Group Theory/Richard E Borcherds/Cayley's Theorem.md",
     "Maths/Group Theory/Richard E Borcherds/Langrange's Theorem.md",
@@ -181,34 +201,13 @@
     "Maths/Group Theory/Wrath of Math/Contents.md",
     "Maths/Group Theory/Wrath of Math/Quotient Subgroup.md",
     "Maths/Group Theory/Wrath of Math/Normal Subgroup.md",
-    "Maths/Group Theory/Wrath of Math/Cosets.md",
-    "Maths/Group Theory/Richard E Borcherds/Normal Subgroups and Quotient Subgroups.md",
-    "Maths/Group Theory/Richard E Borcherds/Semidirect Product.md",
-    "Maths/Contents.md",
-    "Tasks.md",
-    "EE/Signals and Systems/Aaron Lanterman/Partial Fractions.md",
-    "EE/Signals and Systems/Aaron Lanterman/Contents.md",
-    "EE/Signals and Systems/Aaron Lanterman/Transfer Functions and Frequency Response.md",
-    "Imgs/Pasted image 20240104163325.png",
-    "Imgs/Pasted image 20240104163219.png",
-    "EE/Signals and Systems/Aaron Lanterman/Poles and Stability.md",
-    "Imgs/photo.png",
     "CS/Full Stack Development",
     "Excalidraw",
-    "Imgs/Pasted image 20240102171746.png",
     "Unconfirmed 16954.crdownload",
-    "Imgs/Pasted image 20240101200723.png",
-    "Imgs/Pasted image 20231228202641.png",
-    "Imgs/Pasted image 20231228193434.png",
-    "Imgs/Pasted image 20231228192940.png",
     "Books/CS",
     "Books",
-    "Imgs/Pasted image 20231228164548.png",
-    "Imgs/Pasted image 20231228164208.png",
     "Extra/History/Treaties",
     "Extra/History/Battles/Untitled",
-    "Extra/History/Battles",
-    "Extra/History",
     "EE/Untitled.canvas",
     "Databases/Untitled.canvas"
   ]

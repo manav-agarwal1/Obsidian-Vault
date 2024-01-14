@@ -68,3 +68,5 @@
 
 - [ ] Computer Age Statistical Inference
 - [ ] Harvard Classics 50 Volumes
+- [ ] C++ for Financial Mathematics
+- [ ] 

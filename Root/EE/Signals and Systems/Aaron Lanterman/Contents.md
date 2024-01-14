@@ -28,4 +28,5 @@
 25. [[Transfer Functions]]
 26. [[Poles and Stability]]
 27. [[Transfer Functions and Frequency Response]]
-28. 
+28. [[Canonical Second Order Filters]]
+29. 

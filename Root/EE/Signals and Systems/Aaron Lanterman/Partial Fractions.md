@@ -1,3 +1,4 @@
+
 # Unique Roots
 RHS can be thought of input to the system.
 *Earlier we said **system** mapped input to output, but now we introduce concept of **state** in the system*.

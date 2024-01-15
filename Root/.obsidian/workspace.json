@@ -25,13 +25,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "EE/Signals and Systems/Aaron Lanterman/Partial Fractions.md",
+                "file": "Books/CS/Cormen/Data Structures.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "EE/Signals and Systems/Aaron Lanterman/Contents.md",
+                "file": "Books/CS/Cormen/Data Structures.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "EE/Signals and Systems/Aaron Lanterman/Contents.md",
+                "file": "Books/CS/Cormen/Data Structures.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "EE/Signals and Systems/Aaron Lanterman/Contents.md"
+                "file": "Books/CS/Cormen/Data Structures.md"
               }
             }
           }
@@ -161,17 +162,32 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c4507b2f62afb918",
+  "active": "70213b2302642634",
   "lastOpenFiles": [
-    "EE/Signals and Systems/Aaron Lanterman/Canonical Second Order Filters.md",
+    "CS/DSA/AdHoc/Primality Testing.md",
+    "Books/CS/Cormen/Data Structures.md",
+    "Books/CS/Cormen",
+    "Books/Untitled",
+    "CS/DSA/AdHoc/Miller-Rabin Primality Test.md",
+    "CS/DSA/AdHoc/Pseudoprimality Testing.md",
+    "Untitled.md",
+    "Maths/Group Theory/Richard E Borcherds/Cayley's Theorem.md",
+    "Maths/Group Theory/Richard E Borcherds/Contents.md",
+    "Maths/Group Theory/Richard E Borcherds/Extensions.md",
+    "Maths/Group Theory/Richard E Borcherds/Homomorphisms.md",
+    "Maths/Group Theory/Richard E Borcherds/Introduction.md",
+    "Maths/Group Theory/Richard E Borcherds/Langrange's Theorem.md",
+    "CS/DSA/AdHoc/Trial Division Primality Test.md",
+    "CS/DSA/AdHoc/Sieve of Eratosthenes.md",
     "EE/Signals and Systems/Aaron Lanterman/Contents.md",
+    "EE/Signals and Systems/Aaron Lanterman/Partial Fractions.md",
+    "EE/Signals and Systems/Aaron Lanterman/Canonical Second Order Filters.md",
     "Imgs/Pasted image 20240115011851.png",
     "Imgs/Pasted image 20240115011630.png",
     "Imgs/Pasted image 20240115011453.png",
     "Imgs/Pasted image 20240115011333.png",
     "Imgs/Pasted image 20240115011223.png",
     "Imgs/Pasted image 20240115005011.png",
-    "EE/Signals and Systems/Aaron Lanterman/Partial Fractions.md",
     "Imgs/Pasted image 20240115003445.png",
     "Maths/Group Theory/Richard E Borcherds/Products.md",
     "Imgs/Pasted image 20240115002528.png",
@@ -180,34 +196,20 @@
     "Tasks.md",
     "EE/Signals and Systems/Aaron Lanterman/Damped Oscillations and Resonant Response.md",
     "Imgs/Pasted image 20240114191008.png",
-    "Untitled.md",
     "Maths/Group Theory/Thomas W. Judson/Intro.md",
     "CS/Coding Practice/Project Euler/Problem Review.md",
     "Maths/Group Theory/Thomas W. Judson",
     "Maths/Group Theory/Richard E Borcherds/Untitled",
-    "CS/DSA/AdHoc/Miller-Rabin Primality Test.md",
     "CS/DSA/AdHoc/Fermat's Test.md",
-    "CS/DSA/AdHoc/Sieve of Eratosthenes.md",
     "Maths/Group Theory/Group Theory - Semidirect products, extensions.md",
-    "Maths/Group Theory/Richard E Borcherds/Contents.md",
-    "Maths/Group Theory/Richard E Borcherds/Cayley's Theorem.md",
-    "Maths/Group Theory/Richard E Borcherds/Langrange's Theorem.md",
-    "Maths/Group Theory/Richard E Borcherds/Homomorphisms.md",
     "Maths/Group Theory/Wrath of Math/First Isomorphism Theorem.md",
     "CS/DSA/AdHoc/AKS Test.md",
-    "CS/Full Stack Development/Introduction.md",
     "CS/DSA/AdHoc",
-    "Maths/Group Theory/Richard E Borcherds/Extensions.md",
-    "Maths/Group Theory/Wrath of Math/Contents.md",
-    "Maths/Group Theory/Wrath of Math/Quotient Subgroup.md",
-    "Maths/Group Theory/Wrath of Math/Normal Subgroup.md",
     "CS/Full Stack Development",
     "Excalidraw",
     "Unconfirmed 16954.crdownload",
     "Books/CS",
     "Books",
-    "Extra/History/Treaties",
-    "Extra/History/Battles/Untitled",
     "EE/Untitled.canvas",
     "Databases/Untitled.canvas"
   ]

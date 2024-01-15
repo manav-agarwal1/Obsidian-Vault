@@ -7,3 +7,7 @@ $$
 \end {align*}
 $$
 So, on we break and after a point we cant split, and $n$ has to divide one of those atomic terms.
+***
+Improvement over [[Pseudoprimality Testing]].
+- Tries several randomly chosen $a$ for $\text{eq 1}$.
+- While computing the modular exponent it checks for **non-trivial square roots of $1$**.

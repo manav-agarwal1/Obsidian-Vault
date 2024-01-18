@@ -7,6 +7,8 @@
 - [x] ➕ 2023-12-04 Complete Cambridge Application 🔺 🛫 📅 2023-12-04 ✅ 2023-12-15
 - [ ] Review [These Concepts](https://www.linkedin.com/posts/ashishps1_35-most-important-system-design-concepts-activity-7142740387357507586--P6N?utm_source=share&utm_medium=member_desktop)
 - [ ] [Watch lectures on Tensor](https://www.youtube.com/watch?v=TiHHz3sKDbY)
+- [ ] ➕ 2024-01-17 Complete CERN video interview 📅 2024-01-23 🔺 
+- [ ] ➕ 2024-01-17 Complete Canonical Technical Assessment 📅 2024-02-13 🔺 
 - [ ] 
 
 # Courses

@@ -8,24 +8,24 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c4507b2f62afb918",
+            "id": "509721f4c9657126",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "EE/Signals and Systems/Aaron Lanterman/Contents.md",
+                "file": "Tasks.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "70213b2302642634",
+            "id": "5ced1cdcc4fc4ed0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Books/CS/Cormen/Data Structures.md",
+                "file": "EE/Signals and Systems/Aaron Lanterman/Digital Filter Design.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Books/CS/Cormen/Data Structures.md",
+                "file": "EE/Signals and Systems/Aaron Lanterman/Digital Filter Design.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Books/CS/Cormen/Data Structures.md",
+                "file": "EE/Signals and Systems/Aaron Lanterman/Digital Filter Design.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,12 +138,20 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Books/CS/Cormen/Data Structures.md"
+                "file": "EE/Signals and Systems/Aaron Lanterman/Digital Filter Design.md"
               }
+            }
+          },
+          {
+            "id": "745e7dc301064eb9",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -162,10 +170,27 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "70213b2302642634",
+  "active": "5ced1cdcc4fc4ed0",
   "lastOpenFiles": [
-    "CS/DSA/AdHoc/Primality Testing.md",
+    "Imgs/Pasted image 20240118065827.png",
+    "Imgs/Pasted image 20240118065634.png",
+    "EE/Signals and Systems/Aaron Lanterman/Contents.md",
+    "EE/Signals and Systems/Aaron Lanterman/Digital Filter Design.md",
+    "Tasks.md",
+    "EE/Signals and Systems/Aaron Lanterman/Laplace Transforms.md",
+    "Imgs/Pasted image 20240118064801.png",
+    "Imgs/Pasted image 20240118063926.png",
+    "Imgs/Pasted image 20240118062743.png",
+    "Imgs/Pasted image 20240118062608.png",
+    "Imgs/Pasted image 20240117114749.png",
+    "Imgs/Pasted image 20240117114651.png",
+    "EE/Signals and Systems/Aaron Lanterman/Canonical Second Order Filters.md",
+    "EE/Signals and Systems/Aaron Lanterman/Fourier Series.md",
+    "EE/Signals and Systems/Aaron Lanterman/Sampling in Time, Replication in Frequency.md",
+    "Imgs/Pasted image 20240115193933.png",
+    "Imgs/Pasted image 20240115190858.png",
     "Books/CS/Cormen/Data Structures.md",
+    "CS/DSA/AdHoc/Primality Testing.md",
     "Books/CS/Cormen",
     "Books/Untitled",
     "CS/DSA/AdHoc/Miller-Rabin Primality Test.md",
@@ -179,31 +204,14 @@
     "Maths/Group Theory/Richard E Borcherds/Langrange's Theorem.md",
     "CS/DSA/AdHoc/Trial Division Primality Test.md",
     "CS/DSA/AdHoc/Sieve of Eratosthenes.md",
-    "EE/Signals and Systems/Aaron Lanterman/Contents.md",
     "EE/Signals and Systems/Aaron Lanterman/Partial Fractions.md",
-    "EE/Signals and Systems/Aaron Lanterman/Canonical Second Order Filters.md",
     "Imgs/Pasted image 20240115011851.png",
-    "Imgs/Pasted image 20240115011630.png",
-    "Imgs/Pasted image 20240115011453.png",
-    "Imgs/Pasted image 20240115011333.png",
-    "Imgs/Pasted image 20240115011223.png",
-    "Imgs/Pasted image 20240115005011.png",
-    "Imgs/Pasted image 20240115003445.png",
     "Maths/Group Theory/Richard E Borcherds/Products.md",
-    "Imgs/Pasted image 20240115002528.png",
-    "Imgs/Pasted image 20240114193911.png",
     "EE/Signals and Systems/Aaron Lanterman/First-Order System with Switched-On sine wave input.md",
-    "Tasks.md",
     "EE/Signals and Systems/Aaron Lanterman/Damped Oscillations and Resonant Response.md",
-    "Imgs/Pasted image 20240114191008.png",
     "Maths/Group Theory/Thomas W. Judson/Intro.md",
-    "CS/Coding Practice/Project Euler/Problem Review.md",
     "Maths/Group Theory/Thomas W. Judson",
     "Maths/Group Theory/Richard E Borcherds/Untitled",
-    "CS/DSA/AdHoc/Fermat's Test.md",
-    "Maths/Group Theory/Group Theory - Semidirect products, extensions.md",
-    "Maths/Group Theory/Wrath of Math/First Isomorphism Theorem.md",
-    "CS/DSA/AdHoc/AKS Test.md",
     "CS/DSA/AdHoc",
     "CS/Full Stack Development",
     "Excalidraw",

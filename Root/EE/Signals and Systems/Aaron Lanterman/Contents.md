@@ -29,4 +29,4 @@
 26. [[Poles and Stability]]
 27. [[Transfer Functions and Frequency Response]]
 28. [[Canonical Second Order Filters]]
-29. 
+29. [[Digital Filter Design]]

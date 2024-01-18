@@ -2,12 +2,13 @@
 # Filters
 
 *Notations*: $\omega_n = \text{Natural Frequency}$, $\zeta = \text{Damping Factor}$,
-$\zeta$ is actually a ratio.
+$\zeta$ is actually a ratio. We talk in term of this in [[Control Theory]].
 **Quality factor (Q)**: $= \frac{1}{2\cdot\zeta}$.
 In below below cases **poles** will be same but just the **zeroes** will be different.
 We assume for now $\omega_n \gt 0$, $\zeta \gt 0$.
 If system is **BIBO stable** I can put $s = j\omega$.
 $1$ is not the maximum value in case of **Low Pass Filter** and **High Pass Filter**, as it can have a transient bump before stabilizing to $1$. 
+***
 ## Low Pass Filter
 $$H_{LP}(s) = \frac{\omega_n^2}{s^2 + 2\zeta\omega_n s + \omega_n^2}$$
 No **zeroes**.
@@ -27,6 +28,23 @@ $$H_{BP}(s) = \frac{2\zeta\omega_n s}{s^2 + 2\zeta\omega_n s + \omega_n^2}$$
 - $H(j \cdot \omega_n) = 1$
 ![[Pasted image 20240114190956.png]]
 *Note: On the right side of $\omega_n$ graph doesn't touch to $0$, it will tail to $\infty$ as the function only has $1$ finite $0$.*
+
+**Bandwidth**:
+![[Pasted image 20240115190858.png]]
+*Humans perceive frequency in Logarithmic scale. This is why we plot **bode plots***. *This is why we perceive white noise as high pitch, though actually it is much more balanced*. *On the other hand, pink noise sounds more balance to us but it is actually not*.
+$$
+\begin{align*}
+&\omega_n^2 &&= \omega_L \cdot \omega_U, \\
+\implies &\omega_n &&= \sqrt{\omega_L \cdot \omega_U}, \\
+\implies &ln(\omega_n) &&= \frac{ln(\omega_L) + ln(\omega_U)}{2}
+\end{align*}
+$$
+**Half power case**, ![[Pasted image 20240115193933.png]]
+- $BW = \omega_{U, 1/2} - \omega_{L, 1/2}$
+- $Q = \frac{\omega_n}{BW}$
+So, $Q \cdot BW = constant$
+- If we fix $BW$ then, on increasing $\omega_n$ user feels less $BW$ even though it is same, as $Q$ increases. It will sound thinner to them, less musical content.
+- If we fix $Q$, and increase $\omega_n$ then the $BW$ increases in linear frequency scale, and listener is more happy as due to the fact that humans perceive it logarithmically, so they will feel $BW$ is same as before even though it increased.
 ***
 ## High Pass Filter
 $$H_{HP}(s) = \frac{s^2}{s^2 + 2\zeta\omega_n s + \omega_n^2}$$

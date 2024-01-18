@@ -30,3 +30,5 @@
 27. [[Transfer Functions and Frequency Response]]
 28. [[Canonical Second Order Filters]]
 29. [[Digital Filter Design]]
+30. [[Final and Initial Value Theorems]]
+31. 

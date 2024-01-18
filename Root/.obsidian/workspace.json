@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "EE/Signals and Systems/Aaron Lanterman/Digital Filter Design.md",
+                "file": "EE/Signals and Systems/Aaron Lanterman/Final and Initial Value Theorems.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "EE/Signals and Systems/Aaron Lanterman/Digital Filter Design.md",
+                "file": "EE/Signals and Systems/Aaron Lanterman/Final and Initial Value Theorems.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "EE/Signals and Systems/Aaron Lanterman/Digital Filter Design.md",
+                "file": "EE/Signals and Systems/Aaron Lanterman/Final and Initial Value Theorems.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "EE/Signals and Systems/Aaron Lanterman/Digital Filter Design.md"
+                "file": "EE/Signals and Systems/Aaron Lanterman/Final and Initial Value Theorems.md"
               }
             }
           },
@@ -172,11 +172,14 @@
   },
   "active": "5ced1cdcc4fc4ed0",
   "lastOpenFiles": [
-    "Imgs/Pasted image 20240118065827.png",
-    "Imgs/Pasted image 20240118065634.png",
     "EE/Signals and Systems/Aaron Lanterman/Contents.md",
+    "EE/Signals and Systems/Aaron Lanterman/Final and Initial Value Theorems.md",
     "EE/Signals and Systems/Aaron Lanterman/Digital Filter Design.md",
     "Tasks.md",
+    "Imgs/Pasted image 20240118074600.png",
+    "EE/Signals and Systems/Aaron Lanterman/Canonical Second Order Filters.md",
+    "Imgs/Pasted image 20240118065827.png",
+    "Imgs/Pasted image 20240118065634.png",
     "EE/Signals and Systems/Aaron Lanterman/Laplace Transforms.md",
     "Imgs/Pasted image 20240118064801.png",
     "Imgs/Pasted image 20240118063926.png",
@@ -184,11 +187,9 @@
     "Imgs/Pasted image 20240118062608.png",
     "Imgs/Pasted image 20240117114749.png",
     "Imgs/Pasted image 20240117114651.png",
-    "EE/Signals and Systems/Aaron Lanterman/Canonical Second Order Filters.md",
     "EE/Signals and Systems/Aaron Lanterman/Fourier Series.md",
     "EE/Signals and Systems/Aaron Lanterman/Sampling in Time, Replication in Frequency.md",
     "Imgs/Pasted image 20240115193933.png",
-    "Imgs/Pasted image 20240115190858.png",
     "Books/CS/Cormen/Data Structures.md",
     "CS/DSA/AdHoc/Primality Testing.md",
     "Books/CS/Cormen",
@@ -205,7 +206,6 @@
     "CS/DSA/AdHoc/Trial Division Primality Test.md",
     "CS/DSA/AdHoc/Sieve of Eratosthenes.md",
     "EE/Signals and Systems/Aaron Lanterman/Partial Fractions.md",
-    "Imgs/Pasted image 20240115011851.png",
     "Maths/Group Theory/Richard E Borcherds/Products.md",
     "EE/Signals and Systems/Aaron Lanterman/First-Order System with Switched-On sine wave input.md",
     "EE/Signals and Systems/Aaron Lanterman/Damped Oscillations and Resonant Response.md",

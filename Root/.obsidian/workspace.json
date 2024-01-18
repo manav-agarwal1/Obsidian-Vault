@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "EE/Signals and Systems/Aaron Lanterman/Final and Initial Value Theorems.md",
+                "file": "EE/Signals and Systems/Aaron Lanterman/Contents.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "EE/Signals and Systems/Aaron Lanterman/Final and Initial Value Theorems.md",
+                "file": "EE/Signals and Systems/Aaron Lanterman/Contents.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "EE/Signals and Systems/Aaron Lanterman/Final and Initial Value Theorems.md",
+                "file": "EE/Signals and Systems/Aaron Lanterman/Contents.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "EE/Signals and Systems/Aaron Lanterman/Final and Initial Value Theorems.md"
+                "file": "EE/Signals and Systems/Aaron Lanterman/Contents.md"
               }
             }
           },
@@ -172,12 +172,12 @@
   },
   "active": "5ced1cdcc4fc4ed0",
   "lastOpenFiles": [
-    "EE/Signals and Systems/Aaron Lanterman/Contents.md",
     "EE/Signals and Systems/Aaron Lanterman/Final and Initial Value Theorems.md",
+    "EE/Signals and Systems/Aaron Lanterman/Contents.md",
+    "EE/Signals and Systems/Aaron Lanterman/Canonical Second Order Filters.md",
     "EE/Signals and Systems/Aaron Lanterman/Digital Filter Design.md",
     "Tasks.md",
     "Imgs/Pasted image 20240118074600.png",
-    "EE/Signals and Systems/Aaron Lanterman/Canonical Second Order Filters.md",
     "Imgs/Pasted image 20240118065827.png",
     "Imgs/Pasted image 20240118065634.png",
     "EE/Signals and Systems/Aaron Lanterman/Laplace Transforms.md",

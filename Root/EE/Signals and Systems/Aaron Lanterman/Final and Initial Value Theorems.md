@@ -10,7 +10,7 @@ x(0^+) = \lim_{t \to 0^+} x(t) = \lim_{s \to \infty} s \cdot X(s)
 $$
 ***
 Usually as we have seen in examples of [[Laplace Transforms]], and in many engineering applications we will have $x(0^+) = x(0)$, so, things are usually nice around **Initial Value Theorem**.
-*And both these theorems are valid only if the $\lim$ exists*.
+**WARNING!!!** - ***And both these theorems are valid only if the $\lim$ exists*.**
 ***
 # Danger
 
@@ -20,4 +20,16 @@ But what is we take **Inverse Laplace Theorem**, it is $x(t) = sin(3t) u(t)$, an
 
 *Eg*. $$x(t) = sin(\frac{1}{t})$$
 As, I approach $0$, then things got weird. I mean here we don't have **Laplace Transform** anyway.
+***
+We input $x(t) = u(t)$ for the three types of filters discussed in [[Canonical Second Order Filters]]. We will calculate limiting cases using above theorems.
+- Step Response from **LPF**:
+	- $y_{LP}(0) = \lim_{s \to \infty} s(\frac{1}{s} H_{LP}(s)) = 0$
+	- $y_{LP}(\infty) = \lim_{s \to 0} s(\frac{1}{s} H_{LP}(s)) = 1$
+- Step Response from **BPF**:
+	- $y_{BP}(0) = \lim_{s \to \infty} s(\frac{1}{s} H_{BP}(s)) = 0$
+	- $y_{BP}(\infty) = \lim_{s \to 0} s(\frac{1}{s} H_{BP}(s)) = 0$
+- Step Response from **HPF**:
+	- $y_{HP}(0) = \lim_{s \to \infty} s(\frac{1}{s} H_{HP}(s)) = 1$
+	- $y_{HP}(\infty) = \lim_{s \to 0} s(\frac{1}{s} H_{HP}(s)) = 0$
+This $\frac{1}{s}$ arises from, the **Laplace Transform** of $u(t)$ as we will convolve it with **Impulse Response** system but in **Laplace** domain that will be multiplied with the **Frequency Response** of system.
 ***

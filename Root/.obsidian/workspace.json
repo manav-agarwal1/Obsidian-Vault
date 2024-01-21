@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "EE/Signals and Systems/Aaron Lanterman/Contents.md",
+                "file": "CS/Full Stack Development/JavaScript.md",
                 "mode": "source",
                 "source": false
               }
@@ -82,7 +82,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "b212cd0cbb55b5dc",
@@ -98,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "EE/Signals and Systems/Aaron Lanterman/Contents.md",
+                "file": "CS/Full Stack Development/JavaScript.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "EE/Signals and Systems/Aaron Lanterman/Contents.md",
+                "file": "CS/Full Stack Development/JavaScript.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "EE/Signals and Systems/Aaron Lanterman/Contents.md"
+                "file": "CS/Full Stack Development/JavaScript.md"
               }
             }
           },
@@ -172,11 +173,14 @@
   },
   "active": "5ced1cdcc4fc4ed0",
   "lastOpenFiles": [
-    "EE/Signals and Systems/Aaron Lanterman/Final and Initial Value Theorems.md",
+    "CS/Full Stack Development/Introduction.md",
+    "CS/Full Stack Development/JavaScript.md",
+    "CS/Full Stack Development/JavaScript",
+    "Tasks.md",
     "EE/Signals and Systems/Aaron Lanterman/Contents.md",
+    "EE/Signals and Systems/Aaron Lanterman/Final and Initial Value Theorems.md",
     "EE/Signals and Systems/Aaron Lanterman/Canonical Second Order Filters.md",
     "EE/Signals and Systems/Aaron Lanterman/Digital Filter Design.md",
-    "Tasks.md",
     "Imgs/Pasted image 20240118074600.png",
     "Imgs/Pasted image 20240118065827.png",
     "Imgs/Pasted image 20240118065634.png",
@@ -208,8 +212,6 @@
     "EE/Signals and Systems/Aaron Lanterman/Partial Fractions.md",
     "Maths/Group Theory/Richard E Borcherds/Products.md",
     "EE/Signals and Systems/Aaron Lanterman/First-Order System with Switched-On sine wave input.md",
-    "EE/Signals and Systems/Aaron Lanterman/Damped Oscillations and Resonant Response.md",
-    "Maths/Group Theory/Thomas W. Judson/Intro.md",
     "Maths/Group Theory/Thomas W. Judson",
     "Maths/Group Theory/Richard E Borcherds/Untitled",
     "CS/DSA/AdHoc",
@@ -217,7 +219,6 @@
     "Excalidraw",
     "Unconfirmed 16954.crdownload",
     "Books/CS",
-    "Books",
     "EE/Untitled.canvas",
     "Databases/Untitled.canvas"
   ]

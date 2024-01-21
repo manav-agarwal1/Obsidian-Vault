@@ -31,6 +31,7 @@
 	- [ ] Math for Deep Learning - Tubigen 🔼 
 - [ ] ECE3084 - Ongoing (Lantertronics)
 - [ ] Group Theory - Ongoing (Richard E Borcherds)
+- [ ] CMU Intro to Deep Learning - Spring 2024
 
 
 **Youtube Channels**

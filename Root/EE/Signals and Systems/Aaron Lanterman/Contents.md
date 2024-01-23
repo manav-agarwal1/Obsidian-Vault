@@ -1,5 +1,7 @@
-
-[Signals and Systems - Aaron Lanterman](https://www.youtube.com/playlist?list=PLOunECWxELQRYwsuj4BL4Hu1nvj9dxRQ6)
+*All the images or screenshot appearing in the notes are from lecture videos in the Youtube playlist linked below. Hope no right issues. These are just personal notes*.
+[Signals and Systems - Aaron D Lanterman](https://www.youtube.com/playlist?list=PLOunECWxELQRYwsuj4BL4Hu1nvj9dxRQ6)
+[Prof Aaron D Lanterman](https://ece.gatech.edu/directory/aaron-d-lanterman)
+YouTube Channel - [Lantertronics](https://www.youtube.com/@Lantertronics)
 1. [[EE/Signals and Systems/Aaron Lanterman/Introduction|Introduction]]
 2. [[Unit Step Function]]
 3. [[Unit Impulse Function]]
@@ -20,7 +22,7 @@
 18. [[Amplitude Modulation for Communication]]
 19. [[Sampling in Time, Replication in Frequency]]
 20. [[Baseband Representation of Bandlimited Signals]]
-*We talk about **Unilateral Laplace Transform** when we say **Laplace Transform**, when want the other one, then we explicitly mention it. Atleast in this series*.
+*We talk about **Unilateral Laplace Transform** when we say **Laplace Transform**, when want the other one, then we explicitly mention it. At least in this series*.
 21. [[Laplace Transforms]]
 22. [[Laplace Transforms - Properties and Operations]]
 23. [[Partial Fractions]]
@@ -31,4 +33,12 @@
 28. [[Canonical Second Order Filters]]
 29. [[Digital Filter Design]]
 30. [[Final and Initial Value Theorems]]
-31. 
+*Represent Electrical Circuits in Laplace Transform Domain. It depends on Linearity so, discussion will be limited to Linear Electrical Elements*.
+31. [[Laplace-Domain Circuit Models]]
+32. [[Wien Bridge RC Band-Pass Filter]]
+33. [[Black's Feedback Formula]]
+34. [[Amplifiers]]
+35. [[Inverting Functions using OpAmp 1]]
+36. [[Velocity and Position Control]]
+37. [[PID Control of a Resonant System]]
+38. [[Parseval's Theorem]]

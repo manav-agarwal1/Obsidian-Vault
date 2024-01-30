@@ -52,6 +52,10 @@
       {
         "query": "Physics/Random",
         "color": "#df9834"
+      },
+      {
+        "query": "CS/Theory of Computation",
+        "color": "#0b5ac1"
       }
     ]
   },

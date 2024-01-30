@@ -8,11 +8,15 @@
         "type": "tabs",
         "children": [
           {
-            "id": "76e70a088b7ee850",
+            "id": "d12832858617115d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "CS/Theory of Computation/Harry Potter/Cache.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "CS/Theory of Computation/Harry Potter/Cache.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "CS/Theory of Computation/Harry Potter/Cache.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "CS/Theory of Computation/Harry Potter/Cache.md"
+              }
             }
           },
           {
@@ -149,11 +157,24 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "76e70a088b7ee850",
+  "active": "8dd9988f96718c9c",
   "lastOpenFiles": [
+    "CS/Theory of Computation/Harry Potter/Contents.md",
+    "CS/Theory of Computation/Harry Potter/Cache.md",
+    "CS/Theory of Computation/Harry Potter/Prerequisites.md",
+    "Tasks.md",
+    "EE/Signals and Systems/Aaron Lanterman/System Properties.md",
+    "EE/Signals and Systems/Aaron Lanterman/Contents.md",
+    "Maths/Group Theory/Richard E Borcherds/Langrange's Theorem.md",
+    "Maths/Group Theory/Richard E Borcherds/Introduction.md",
+    "Maths/Group Theory/Richard E Borcherds/Homomorphisms.md",
+    "Maths/Group Theory/Richard E Borcherds/Contents.md",
+    "Maths/Group Theory/Richard E Borcherds/Cayley's Theorem.md",
+    "Maths/Group Theory/Richard E Borcherds/Extensions.md",
+    "CS/Theory of Computation/Harry Potter",
+    "CS/Theory of Computation",
     "EE/Signals and Systems/Aaron Lanterman/Wien Bridge RC BandPass Filter.excalidraw.md",
     "EE/Signals and Systems/Aaron Lanterman/Wien Bridge RC Band-Pass Filter.md",
-    "EE/Signals and Systems/Aaron Lanterman/Contents.md",
     "EE/Signals and Systems/Aaron Lanterman/Capacitor Paradox.md",
     "EE/Signals and Systems/Aaron Lanterman/Unit Impulse Function.md",
     "EE/Signals and Systems/Aaron Lanterman/Parseval's Theorem.md",
@@ -172,22 +193,11 @@
     "EE/Signals and Systems/Aaron Lanterman/Inverting Functions using OpAmp.md",
     "EE/Signals and Systems/Aaron Lanterman/Amplifiers.md",
     "Imgs/Pasted image 20240123075317.png",
-    "Tasks.md",
     "EE/Signals and Systems/Aaron Lanterman/Black's Feedback Formula.md",
     "Imgs/Pasted image 20240122161120.png",
-    "EE/Signals and Systems/Aaron Lanterman/Transfer Functions and Frequency Response.md",
-    "EE/Signals and Systems/Aaron Lanterman/Canonical Second Order Filters.md",
-    "EE/Signals and Systems/Aaron Lanterman/Digital Filter Design.md",
-    "EE/Signals and Systems/Aaron Lanterman/Laplace-Domain Circuit Models.md",
     "Imgs/Pasted image 20240122154830.png",
     "Imgs/Pasted image 20240122154556.png",
-    "EE/Contents.md",
-    "CS/Full Stack Development/JavaScript.md",
-    "CS/Full Stack Development/Introduction.md",
     "CS/Full Stack Development/JavaScript",
-    "EE/Signals and Systems/Aaron Lanterman/Laplace Transforms.md",
-    "EE/Signals and Systems/Aaron Lanterman/Fourier Series.md",
-    "EE/Signals and Systems/Aaron Lanterman/Sampling in Time, Replication in Frequency.md",
     "Books/CS/Cormen",
     "Books/Untitled",
     "Maths/Group Theory/Thomas W. Judson",
@@ -195,8 +205,6 @@
     "CS/DSA/AdHoc",
     "CS/Full Stack Development",
     "Excalidraw",
-    "Unconfirmed 16954.crdownload",
-    "Books/CS",
     "EE/Untitled.canvas",
     "Databases/Untitled.canvas"
   ]

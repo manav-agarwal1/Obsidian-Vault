@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/Theory of Computation/Harry Potter/Cache.md",
+                "file": "CS/Theory of Computation/Harry Potter/Basics.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "b212cd0cbb55b5dc",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/Theory of Computation/Harry Potter/Cache.md",
+                "file": "CS/Theory of Computation/Harry Potter/Basics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/Theory of Computation/Harry Potter/Cache.md",
+                "file": "CS/Theory of Computation/Harry Potter/Basics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS/Theory of Computation/Harry Potter/Cache.md"
+                "file": "CS/Theory of Computation/Harry Potter/Basics.md"
               }
             }
           },
@@ -157,10 +158,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "8dd9988f96718c9c",
+  "active": "d12832858617115d",
   "lastOpenFiles": [
     "CS/Theory of Computation/Harry Potter/Contents.md",
-    "CS/Theory of Computation/Harry Potter/Cache.md",
+    "CS/Theory of Computation/Harry Potter/Basics.md",
     "CS/Theory of Computation/Harry Potter/Prerequisites.md",
     "Tasks.md",
     "EE/Signals and Systems/Aaron Lanterman/System Properties.md",

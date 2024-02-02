@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/Theory of Computation/Harry Potter/Basics.md",
+                "file": "CS/Theory of Computation/Harry Potter/Non Determinism.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "b212cd0cbb55b5dc",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/Theory of Computation/Harry Potter/Basics.md",
+                "file": "CS/Theory of Computation/Harry Potter/Non Determinism.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/Theory of Computation/Harry Potter/Basics.md",
+                "file": "CS/Theory of Computation/Harry Potter/Non Determinism.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS/Theory of Computation/Harry Potter/Basics.md"
+                "file": "CS/Theory of Computation/Harry Potter/Non Determinism.md"
               }
             }
           },
@@ -160,8 +159,22 @@
   },
   "active": "d12832858617115d",
   "lastOpenFiles": [
+    "Imgs/Pasted image 20240202181921.png",
+    "Imgs/Pasted image 20240202181911.png",
+    "Imgs/Pasted image 20240202181859.png",
+    "Imgs/Pasted image 20240202181846.png",
+    "CS/Theory of Computation/Harry Potter/Operations on Regular Languages.md",
+    "CS/Theory of Computation/Harry Potter/Finite State Machines.md",
+    "Imgs/Pasted image 20240202181821.png",
+    "Imgs/Pasted image 20240202181803.png",
+    "Imgs/Pasted image 20240202181749.png",
+    "Imgs/Pasted image 20240202181732.png",
+    "Imgs/Pasted image 20240202181721.png",
+    "Imgs/Pasted image 20240202181659.png",
+    "CS/Theory of Computation/Harry Potter/Non Determinism.md",
+    "Untitled.md",
     "CS/Theory of Computation/Harry Potter/Contents.md",
-    "CS/Theory of Computation/Harry Potter/Basics.md",
+    "Cache.md",
     "CS/Theory of Computation/Harry Potter/Prerequisites.md",
     "Tasks.md",
     "EE/Signals and Systems/Aaron Lanterman/System Properties.md",
@@ -181,23 +194,9 @@
     "EE/Signals and Systems/Aaron Lanterman/Parseval's Theorem.md",
     "EE/Signals and Systems/Aaron Lanterman/PID Control of a Resonant System.md",
     "Imgs/Pasted image 20240123143652.png",
-    "Imgs/Pasted image 20240123143151.png",
     "EE/Signals and Systems/Aaron Lanterman/Velocity and Position Control.md",
-    "Imgs/Pasted image 20240123142750.png",
     "EE/Signals and Systems/Aaron Lanterman/Final and Initial Value Theorems.md",
-    "Imgs/Pasted image 20240123110234.png",
     "EE/Signals and Systems/Aaron Lanterman/Position Control.md",
-    "EE/Signals and Systems/Aaron Lanterman/Laplace Transforms - Properties and Operations.md",
-    "Imgs/Pasted image 20240123102051.png",
-    "Imgs/Pasted image 20240123101348.png",
-    "EE/Signals and Systems/Aaron Lanterman/Inverting Functions using OpAmp 1.md",
-    "EE/Signals and Systems/Aaron Lanterman/Inverting Functions using OpAmp.md",
-    "EE/Signals and Systems/Aaron Lanterman/Amplifiers.md",
-    "Imgs/Pasted image 20240123075317.png",
-    "EE/Signals and Systems/Aaron Lanterman/Black's Feedback Formula.md",
-    "Imgs/Pasted image 20240122161120.png",
-    "Imgs/Pasted image 20240122154830.png",
-    "Imgs/Pasted image 20240122154556.png",
     "CS/Full Stack Development/JavaScript",
     "Books/CS/Cormen",
     "Books/Untitled",

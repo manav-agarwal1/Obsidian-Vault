@@ -24,5 +24,5 @@ So, $M = \{Q, \Sigma, \delta, q_o, F\}$,  where
 ***
 **Theorem**  *Class of **Regular Languages** is closed under **Concatenation***.
 
-**Proof**: [[Non Determinism]] is required.
+**Proof**: [[Nondeterminism]] is required.
 ***

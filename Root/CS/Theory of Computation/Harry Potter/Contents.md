@@ -3,5 +3,5 @@ Any found Screenshots are most likely from here.
 - [[Prerequisites]]
 - [[Finite State Machines]]
 - [[Operations on Regular Languages]]
-- [[Non Determinism]]
+- [[Nondeterminism]]
 - 

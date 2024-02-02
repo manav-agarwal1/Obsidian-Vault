@@ -36,4 +36,5 @@ When we have many choices, then we can do following equivalent things:
 **Computation tree** or **choice tree** of above example
 ![[Pasted image 20240202181921.png]]
 ***
+# Nondeterministic FSM
 

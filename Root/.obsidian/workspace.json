@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/Theory of Computation/Harry Potter/Non Determinism.md",
+                "file": "CS/Theory of Computation/Harry Potter/Nondeterminism.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/Theory of Computation/Harry Potter/Non Determinism.md",
+                "file": "CS/Theory of Computation/Harry Potter/Nondeterminism.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/Theory of Computation/Harry Potter/Non Determinism.md",
+                "file": "CS/Theory of Computation/Harry Potter/Nondeterminism.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS/Theory of Computation/Harry Potter/Non Determinism.md"
+                "file": "CS/Theory of Computation/Harry Potter/Nondeterminism.md"
               }
             }
           },
@@ -159,6 +159,8 @@
   },
   "active": "d12832858617115d",
   "lastOpenFiles": [
+    "CS/Theory of Computation/Harry Potter/Contents.md",
+    "CS/Theory of Computation/Harry Potter/Nondeterminism.md",
     "Imgs/Pasted image 20240202181921.png",
     "Imgs/Pasted image 20240202181911.png",
     "Imgs/Pasted image 20240202181859.png",
@@ -171,9 +173,7 @@
     "Imgs/Pasted image 20240202181732.png",
     "Imgs/Pasted image 20240202181721.png",
     "Imgs/Pasted image 20240202181659.png",
-    "CS/Theory of Computation/Harry Potter/Non Determinism.md",
     "Untitled.md",
-    "CS/Theory of Computation/Harry Potter/Contents.md",
     "Cache.md",
     "CS/Theory of Computation/Harry Potter/Prerequisites.md",
     "Tasks.md",
@@ -193,7 +193,6 @@
     "EE/Signals and Systems/Aaron Lanterman/Unit Impulse Function.md",
     "EE/Signals and Systems/Aaron Lanterman/Parseval's Theorem.md",
     "EE/Signals and Systems/Aaron Lanterman/PID Control of a Resonant System.md",
-    "Imgs/Pasted image 20240123143652.png",
     "EE/Signals and Systems/Aaron Lanterman/Velocity and Position Control.md",
     "EE/Signals and Systems/Aaron Lanterman/Final and Initial Value Theorems.md",
     "EE/Signals and Systems/Aaron Lanterman/Position Control.md",

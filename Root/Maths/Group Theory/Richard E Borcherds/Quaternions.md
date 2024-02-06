@@ -1,0 +1,39 @@
+- $Q_8 = \{\pm1, \pm I, \pm J, \pm K\}$
+	- $IJ = k$
+	- $JK = I$
+	- $KI = J$
+	- $I^2 = J^2 = K^2 = -1$
+	- $I = (\begin{smallmatrix} 1 & 0 \\ 0 & -i \end{smallmatrix})$
+	- $J = (\begin{smallmatrix} 0 & 1 \\ -1 & 0 \end{smallmatrix})$
+	- $K = (\begin{smallmatrix} 0 & i \\ i & 0 \end{smallmatrix})$
+	- $1 = (\begin{smallmatrix} 1 & 0 \\ 0 & 1 \end{smallmatrix})$
+	- $-1 = (\begin{smallmatrix} -1 & 0 \\ 0 & -1 \end{smallmatrix})$
+- **Ring of Hamiltonian Quaternions $\mathbf{H}$** = We can form a [[Ring]] with $a + bI + cJ + dK \cong \mathcal{R}^4$, $a,b,c,d \in \mathcal{R}$.
+	- **Ring Multiplication**, using $IJ = -JI$, $JK = -KJ$, $KI = -IK$
+	- Many things that can be done with **Complex Numbers** can be done with **Quaternions**.
+		- Let, $z = a + bI + cJ + dK$, be a **Quaternion**, then its **Quaternion Conjugate** is $\overline{z} = a-bI-cJ-dK$
+			- $z\overline{z} = a^2 + b^2 + c^2 + d^2 \geq 0$
+			- $N(z_1z_2) = N(z_1)N(z_2)$, CAUTION!!, as we don't have **commutativity** here.
+				- $$\begin{align*} &N(z_1z_2) &&= z_1z_2\overline{z_1z_2}, \\ & &&=z_1z_2\overline{z_2}\cdot\overline{z_1}, \\& &&=z_1N(z_2)\overline{z_1}, &&...N(z_2) \text{ is Real so it commutes with everything}, \\ & &&=z_1\overline{z_1}N(z_2), \\ & &&=N(z_1)N(z_2)\end{align*}$$
+		- **Complex Numbers** with absolute value $1$ forms a circle, and its is **group**, $S^1$
+			- **Quaternions** with absolute value $1$ ie; $a^2+b^2+c^2+d^2 = 1$, it forms a sphere $S^3$ and its is also a **group**.
+				- It is very rare for spheres to be a **group**, only spheres that are **groups** are:
+					- $S^0 = \{\pm 1\}$
+					- $S^1 \in \mathbf{C}$
+					- $S^3 \in $\mathbf{H}$$
+	- **Hamilton** was interested in **Quaternions** as they can be used to define **rotations** in $3-D$,  and it is very easy.
+		- We take $v \in \mathcal{R}^3 = \{bI + cJ + dK\}$, and $g \in S^3 \subseteq \mathbf{H}$, and then we can see that under **Quaternion Multiplication**, $gvg^{-1} \in \mathcal{R}^3$
+			- And, even the length is preserved as $N(gvg^{-1}) = N(v)$.
+			- So, this operation is actually a **rotation** in $3-D$.
+			- This is very important in **computer games**, as $3-D$ computer games, involve a lot of **rotations** in $3-D$ and if we use matrices then we get $3 \times 3$ matrices for one **rotation**, and then multiplying them is not very efficient, instead we can only use $3$ entries of $\mathbf{H}$, per **rotation**, and even the **quaternion multiplication** is more efficient.
+			- **Special Orthogonal** group represents group of $n\times n$ matrices and these represent group of **rotations**, so. we have a [[Homomorphisms]] from $1 \to \pm1 \to S^3 \to SO_3({\mathcal{R}}) \to 1$
+				- This is called a **double cover** of $SO_3({\mathcal{R}})$.
+					- As the order of **Kernel** from $S^3 \to SO_3({\mathcal{R}})$ is $2$.
+					- If we hold a soup bowl in our hand full of soup, so hold it upright, and give a $360\degree$ twist then our arm will experience a twist but if we do it again in same direction then that twist in arm disappears, so, that $\pm1$ is the presence of twist in the arm, and that's what the **double cover** signifies.
+					- $S^3$ is called as **spin group**, and very important in [[Quantum Mechanics]]. This **double cover** signifies that [[electrons]] exist.
+					- We can take some **finite group of rotations** inside $SO_3({\mathcal{R}})$ and take the **inverse image** of it in $S^3$, and these inverse images are called **Binary $\{tetra, octa, icosa\}$hedral groups**. Though this group is not product of finite group in $SO_3({\mathcal{R}})$ and $\pm1$ as the finite group will have lots of element of order $2$, but $S^3$ has only two element of order $2$:
+						- $z^2 = 1$ and $z \overline{z} = 1$, so, $z = \overline{z}$, and hence,  $z \in \mathcal{R}$ and we know it is $\pm 1$.
+	- We can also use it for $4-D$,  let's take $v \in \mathcal{R}^4 = \{a + bI + cJ + dK\}$, and $g,h \in S^3 \subseteq \mathbf{H}$, and then we can see that under **Quaternion Multiplication**, $gvh^{-1} \in SO_4(\mathcal{R})$,
+		- $1 \to (-1, -1) \to S^3 \times S^3 \to SO_4({\mathcal{R}}) \to 1$
+		- $SO_4({\mathcal{R}}) \cong (S^3 \times S^3)/(\mathcal{Z}/2\mathcal{Z})$
+***

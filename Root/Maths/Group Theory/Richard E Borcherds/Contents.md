@@ -11,4 +11,5 @@
 7. [[Semidirect Product]]
 - [ ] *Please look at facts in this lecture $8$ and complete proofs*
 8. [[Extensions]]
-9. 
+9. [[Quaternions]]
+10. 

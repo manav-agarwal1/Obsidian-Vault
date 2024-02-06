@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "af013ded9b9dc421",
+        "id": "69c1e8f5d39d8da0",
         "type": "tabs",
         "children": [
           {
-            "id": "d12832858617115d",
+            "id": "90ab748a9f75872f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/Theory of Computation/Harry Potter/Nondeterminism.md",
+                "file": "Maths/Group Theory/Richard E Borcherds/Extensions.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/Theory of Computation/Harry Potter/Nondeterminism.md",
+                "file": "Maths/Group Theory/Richard E Borcherds/Extensions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/Theory of Computation/Harry Potter/Nondeterminism.md",
+                "file": "Maths/Group Theory/Richard E Borcherds/Extensions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS/Theory of Computation/Harry Potter/Nondeterminism.md"
+                "file": "Maths/Group Theory/Richard E Borcherds/Extensions.md"
               }
             }
           },
@@ -157,10 +157,18 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d12832858617115d",
+  "active": "90ab748a9f75872f",
   "lastOpenFiles": [
-    "CS/Theory of Computation/Harry Potter/Contents.md",
+    "Maths/Group Theory/Richard E Borcherds/Quaternions.md",
+    "Maths/Group Theory/Richard E Borcherds/Contents.md",
+    "Maths/Group Theory/Richard E Borcherds/Semidirect Product.md",
+    "Maths/Group Theory/Wrath of Math/First Isomorphism Theorem.md",
+    "Maths/Group Theory/Group Theory - Semidirect products, extensions.md",
+    "Maths/Group Theory/Thomas W. Judson/Intro.md",
+    "Maths/Group Theory/Richard E Borcherds/Extensions.md",
+    "Tasks.md",
     "CS/Theory of Computation/Harry Potter/Nondeterminism.md",
+    "CS/Theory of Computation/Harry Potter/Contents.md",
     "Imgs/Pasted image 20240202181921.png",
     "Imgs/Pasted image 20240202181911.png",
     "Imgs/Pasted image 20240202181859.png",
@@ -176,15 +184,12 @@
     "Untitled.md",
     "Cache.md",
     "CS/Theory of Computation/Harry Potter/Prerequisites.md",
-    "Tasks.md",
     "EE/Signals and Systems/Aaron Lanterman/System Properties.md",
     "EE/Signals and Systems/Aaron Lanterman/Contents.md",
     "Maths/Group Theory/Richard E Borcherds/Langrange's Theorem.md",
     "Maths/Group Theory/Richard E Borcherds/Introduction.md",
     "Maths/Group Theory/Richard E Borcherds/Homomorphisms.md",
-    "Maths/Group Theory/Richard E Borcherds/Contents.md",
     "Maths/Group Theory/Richard E Borcherds/Cayley's Theorem.md",
-    "Maths/Group Theory/Richard E Borcherds/Extensions.md",
     "CS/Theory of Computation/Harry Potter",
     "CS/Theory of Computation",
     "EE/Signals and Systems/Aaron Lanterman/Wien Bridge RC BandPass Filter.excalidraw.md",
@@ -192,10 +197,6 @@
     "EE/Signals and Systems/Aaron Lanterman/Capacitor Paradox.md",
     "EE/Signals and Systems/Aaron Lanterman/Unit Impulse Function.md",
     "EE/Signals and Systems/Aaron Lanterman/Parseval's Theorem.md",
-    "EE/Signals and Systems/Aaron Lanterman/PID Control of a Resonant System.md",
-    "EE/Signals and Systems/Aaron Lanterman/Velocity and Position Control.md",
-    "EE/Signals and Systems/Aaron Lanterman/Final and Initial Value Theorems.md",
-    "EE/Signals and Systems/Aaron Lanterman/Position Control.md",
     "CS/Full Stack Development/JavaScript",
     "Books/CS/Cormen",
     "Books/Untitled",

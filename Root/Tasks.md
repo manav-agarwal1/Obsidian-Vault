@@ -50,6 +50,7 @@
 - [ ] [Nickolai Zeldovich](https://www.youtube.com/@NickolaiZeldovichMIT) - Computer Systems Security
 - [ ] [Justin Solomon](https://www.youtube.com/@justinmsolomon/playlists) - Numerical Methods, Computer Graphics, Shape Analysis, Robotics
 - [ ] [Frederic Schuller](https://www.youtube.com/@FredericSchuller/playlists) - Advanced Physics
+- [ ] [John Preskill](https://www.youtube.com/@johnpreskill2223/playlists) - Quantum Computation and Statistical Mechanics
 - [ ] Endless Engineering
 - [ ] Lectures in Physics
 - [ ] [Dave Churchill](https://www.youtube.com/@DaveChurchill/playlists) - Game Dev, AI
@@ -71,7 +72,8 @@
 - [ ] Low Level Learning
 - [ ] [hhp3](https://www.youtube.com/@hhp3/playlists)
 - [ ] Interview Pen
-
+- [ ] Quantum Sense
+- [ ] [Graduate Mathematics](https://www.youtube.com/@GraduateMathematics/playlists)
 
 # Books
 

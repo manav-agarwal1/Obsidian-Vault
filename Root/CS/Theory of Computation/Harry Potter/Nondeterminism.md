@@ -38,3 +38,24 @@ When we have many choices, then we can do following equivalent things:
 ***
 # Nondeterministic FSM
 
+**Theorem** For every **Non-Deterministic FSM** we have a **Deterministic FSM**, and vice versa.
+These $2$ types of FSMs have exact same computational power.
+**CATCH!!** - It can be hard to find the **Deterministic** version and it can be very large.
+- *Eg*, All the strings over $/{0, 1/}$ that have $0$ in the second to last position.
+***
+# Non-Deterministic FSM
+
+*Motivation*: Eg, string contains either $\dots 0100 \dots$ or $\dots 0111\dots$,
+- When to start looking for the pattern?
+- Which string to look for?
+These are the major questions standing in the way to create a machine to solve this problem, and this can motivate why there are certain advantages in **Non determinism**.
+- $P(S)$ = Power set of $S$.
+
+***
+# Deterministic FSM
+- $M = \{Q, \Sigma, \delta, q_o, F\}$
+	- $Q$ = States, **Finite** set of states.
+	- $\Sigma$ = Alphabet, **Finite** set of symbols. Labels on the edges.
+	- $\delta: Q \times \Sigma \to Q$ = Transition Function. The transition edges. Given a state and a symbol, it tells you which state you go to.
+	- $q_0 \in Q$ = Initial State.
+	- $F \subseteq Q$ = Final/Accepting States. It can be a empty set as well.

@@ -9,7 +9,7 @@
 - [ ] [Watch lectures on Tensor](https://www.youtube.com/watch?v=TiHHz3sKDbY)
 - [x] ➕ 2024-01-17 Complete CERN video interview 🔺 📅 2024-01-23 ✅ 2024-01-21
 - [x] ➕ 2024-01-17 Complete Canonical Technical Assessment 🔺 📅 2024-02-13 ✅ 2024-01-27
-- [ ] ➕ 2024-01-30 Complete Canonical Psychometric Assessment 🔺 
+- [x] ➕ 2024-01-30 Complete Canonical Psychometric Assessment 🔺 ✅ 2024-02-04
 - [x] ➕ 2024-01-22 Complete Eras Mundus Application for MS Emb 🔺 📅 2024-01-25 ✅ 2024-01-25
 - [ ] ➕ 2024-01-22 Complete Mhmd Al Zayed AI Application due📅 2024-01-28 🔺 2024-02-03
 - [x] ➕ 2024-01-27 Complete CERN video interview 🔺 📅 2024-01-28 ✅ 2024-01-27
@@ -49,6 +49,7 @@
 - [x] [Lantertronics](https://www.youtube.com/@Lantertronics) - Aaron Lanterman - EECS ✅ 2023-12-23
 - [ ] [Nickolai Zeldovich](https://www.youtube.com/@NickolaiZeldovichMIT) - Computer Systems Security
 - [ ] [Justin Solomon](https://www.youtube.com/@justinmsolomon/playlists) - Numerical Methods, Computer Graphics, Shape Analysis, Robotics
+- [ ] [Prof Won Math](https://www.youtube.com/@ProfWonMath) - Linear Algebra
 - [ ] [Frederic Schuller](https://www.youtube.com/@FredericSchuller/playlists) - Advanced Physics
 - [ ] [John Preskill](https://www.youtube.com/@johnpreskill2223/playlists) - Quantum Computation and Statistical Mechanics
 - [ ] Endless Engineering

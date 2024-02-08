@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Maths/Group Theory/Richard E Borcherds/Extensions.md",
+                "file": "Lecture 1.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Maths/Group Theory/Richard E Borcherds/Extensions.md",
+                "file": "Lecture 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Maths/Group Theory/Richard E Borcherds/Extensions.md",
+                "file": "Lecture 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Maths/Group Theory/Richard E Borcherds/Extensions.md"
+                "file": "Lecture 1.md"
               }
             }
           },
@@ -159,22 +159,25 @@
   },
   "active": "90ab748a9f75872f",
   "lastOpenFiles": [
+    "CS/Programming Paradigm/Contents.md",
+    "Lecture 1.md",
+    "Tasks.md",
+    "CS/Programming Paradigm",
+    "CS/Theory of Computation/Harry Potter/Nondeterminism.md",
+    "CS/Theory of Computation/Harry Potter/Finite State Machines.md",
+    "Maths/Group Theory/Richard E Borcherds/Extensions.md",
     "Maths/Group Theory/Richard E Borcherds/Quaternions.md",
     "Maths/Group Theory/Richard E Borcherds/Contents.md",
     "Maths/Group Theory/Richard E Borcherds/Semidirect Product.md",
     "Maths/Group Theory/Wrath of Math/First Isomorphism Theorem.md",
     "Maths/Group Theory/Group Theory - Semidirect products, extensions.md",
     "Maths/Group Theory/Thomas W. Judson/Intro.md",
-    "Maths/Group Theory/Richard E Borcherds/Extensions.md",
-    "Tasks.md",
-    "CS/Theory of Computation/Harry Potter/Nondeterminism.md",
     "CS/Theory of Computation/Harry Potter/Contents.md",
     "Imgs/Pasted image 20240202181921.png",
     "Imgs/Pasted image 20240202181911.png",
     "Imgs/Pasted image 20240202181859.png",
     "Imgs/Pasted image 20240202181846.png",
     "CS/Theory of Computation/Harry Potter/Operations on Regular Languages.md",
-    "CS/Theory of Computation/Harry Potter/Finite State Machines.md",
     "Imgs/Pasted image 20240202181821.png",
     "Imgs/Pasted image 20240202181803.png",
     "Imgs/Pasted image 20240202181749.png",
@@ -195,8 +198,6 @@
     "EE/Signals and Systems/Aaron Lanterman/Wien Bridge RC BandPass Filter.excalidraw.md",
     "EE/Signals and Systems/Aaron Lanterman/Wien Bridge RC Band-Pass Filter.md",
     "EE/Signals and Systems/Aaron Lanterman/Capacitor Paradox.md",
-    "EE/Signals and Systems/Aaron Lanterman/Unit Impulse Function.md",
-    "EE/Signals and Systems/Aaron Lanterman/Parseval's Theorem.md",
     "CS/Full Stack Development/JavaScript",
     "Books/CS/Cormen",
     "Books/Untitled",
@@ -204,7 +205,6 @@
     "Maths/Group Theory/Richard E Borcherds/Untitled",
     "CS/DSA/AdHoc",
     "CS/Full Stack Development",
-    "Excalidraw",
     "EE/Untitled.canvas",
     "Databases/Untitled.canvas"
   ]

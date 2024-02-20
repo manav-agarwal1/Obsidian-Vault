@@ -3,7 +3,7 @@
 - [x] ➕ 2023-11-20  Start Essays 🔺 🛫 2023-11-20 📅 2023-11-24 ✅ 2023-11-26
 - [x] ➕ 2023-11-20  Complete E-Learning 🔽 🛫 2023-11-20 📅 2023-11-24 ✅ 2023-11-27
 - [x] ➕ 2023-11-21 Watch Difference between Linux and Windows Kernel ⏫ 🛫📅 2023-11-21 ✅ 2023-11-22
-- [x] ➕ 2023-11-30 Write SOP for Harvard CSE 🔺 🛫📅 2023-11-30 ✅ 2023-12-01
+- [x] ➕ 2023-11-30 Write SOP for Harvard CSE 🔺 🛫📅 2023-11-30 ✅ 2023-12-01 - Rejection
 - [x] ➕ 2023-12-04 Complete Cambridge Application 🔺 🛫 📅 2023-12-04 ✅ 2023-12-15
 - [ ] Review [These Concepts](https://www.linkedin.com/posts/ashishps1_35-most-important-system-design-concepts-activity-7142740387357507586--P6N?utm_source=share&utm_medium=member_desktop)
 - [ ] [Watch lectures on Tensor](https://www.youtube.com/watch?v=TiHHz3sKDbY)
@@ -75,6 +75,8 @@
 - [ ] Interview Pen
 - [ ] Quantum Sense
 - [ ] [Graduate Mathematics](https://www.youtube.com/@GraduateMathematics/playlists)
+- [ ] Jeremy Howard - Practical Deep Learning
+- [ ] Amateur Logician - Logic
 
 # Books
 

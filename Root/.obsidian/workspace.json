@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tasks.md",
+                "file": "CS/Programming Paradigm/Lecture 6.md",
                 "mode": "source",
                 "source": false
               }
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tasks.md",
+                "file": "CS/Programming Paradigm/Lecture 6.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tasks.md",
+                "file": "CS/Programming Paradigm/Lecture 6.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tasks.md"
+                "file": "CS/Programming Paradigm/Lecture 6.md"
               }
             }
           },
@@ -194,9 +194,9 @@
   },
   "active": "b4616109670ee1f5",
   "lastOpenFiles": [
+    "Tasks.md",
     "CS/Programming Paradigm/Contents.md",
     "CS/Programming Paradigm/Assignment 1.md",
-    "Tasks.md",
     "CS/Programming Paradigm/Lecture 3.md",
     "CS/Programming Paradigm/Lecture 2.md",
     "CS/Programming Paradigm/Lecture 6.md",

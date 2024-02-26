@@ -60,20 +60,6 @@ void* lsearch (void* key, void* base, int n, int elem_size) {
 	return -1;
 }
 ```
-### Better version
-```
-void* lsearch (void* key, void* base, int n, int elem_size, int (*cmpfn)(void*, void*)) {
-	// function pointer is passed here
-	for (int i = 0; i < n; i++) {
-		// void* elem_address = base + i*elem_size; this wont work as base is void* and compiler just wont budge
-		
-		// hack: used everyday in generic C programming
-		void* elem_address = (char*) base + i*elem_size;
-		///???
-	}
-	
-	return NULL;
-}
 ```
 
 

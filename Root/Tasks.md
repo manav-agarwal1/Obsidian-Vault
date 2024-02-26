@@ -43,6 +43,7 @@
 
 **Youtube Channels**
 - [ ] [Vipin Kizheppatt](https://www.youtube.com/@TheVipinkmenon/playlists)
+- [ ] Chris Bourke
 - [ ] [Geoffrey Messier](https://www.youtube.com/@geoffreymessier/playlists) - Probability, Networks, Digital, Comp Arch
 - [x] [Richard E Borcherds](https://www.youtube.com/@richarde.borcherds7998) - Advanced Mathematics ✅ 2023-12-23
 - [ ] [Tübingen Machine Learning](https://www.youtube.com/@TubingenML/playlists)
@@ -77,6 +78,8 @@
 - [ ] [Graduate Mathematics](https://www.youtube.com/@GraduateMathematics/playlists)
 - [ ] Jeremy Howard - Practical Deep Learning
 - [ ] Amateur Logician - Logic
+- [ ] [William Byrd](https://www.youtube.com/@WilliamEByrd/playlists)
+- [ ] [Harvard CMSA](https://www.youtube.com/@harvardcmsa7486/playlists)
 
 # Books
 

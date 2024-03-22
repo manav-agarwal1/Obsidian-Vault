@@ -5,7 +5,10 @@
 3. [[Lecture 4]]
 4. [[Lecture 5]]
 5. [[Lecture 6]]
+6. [[Lecture 7]]
+7. 
 
 # Assignments
 1. [[Assignment 1]]
-2. 
+2. [[Assignment 2]]
+3. 

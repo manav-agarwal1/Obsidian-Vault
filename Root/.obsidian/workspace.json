@@ -8,53 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "90ab748a9f75872f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CS/Programming Paradigm/Assignment 1.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "7f273cd6bd1dd9fc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/Programming Paradigm/Contents.md",
+                "file": "CS/Programming Paradigm/Lecture 7.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "b4616109670ee1f5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CS/Programming Paradigm/Lecture 6.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a6f8b76435e8b18c",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.5.8"
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -83,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "coset",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -104,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "b212cd0cbb55b5dc",
@@ -120,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/Programming Paradigm/Lecture 6.md",
+                "file": "CS/Programming Paradigm/Lecture 7.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/Programming Paradigm/Lecture 6.md",
+                "file": "CS/Programming Paradigm/Lecture 7.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS/Programming Paradigm/Lecture 6.md"
+                "file": "CS/Programming Paradigm/Lecture 7.md"
               }
             }
           },
@@ -192,15 +158,18 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "b4616109670ee1f5",
+  "active": "8dd9988f96718c9c",
   "lastOpenFiles": [
-    "Tasks.md",
     "CS/Programming Paradigm/Contents.md",
+    "CS/Programming Paradigm/Lecture 7.md",
+    "CS/Programming Paradigm/Lecture 6.md",
     "CS/Programming Paradigm/Assignment 1.md",
+    "CS/Programming Paradigm/Assignment 2.md",
+    "CS/Programming Paradigm/Lecture 5.md",
+    "CS/DSA/Algorithms Lab/Algorithms Efficiency.md",
+    "Tasks.md",
     "CS/Programming Paradigm/Lecture 3.md",
     "CS/Programming Paradigm/Lecture 2.md",
-    "CS/Programming Paradigm/Lecture 6.md",
-    "CS/Programming Paradigm/Lecture 5.md",
     "CS/Programming Paradigm/Lecture 4.md",
     "CS/Theory of Computation/Harry Potter/Nondeterminism.md",
     "CS/Theory of Computation/Harry Potter/Contents.md",
@@ -228,9 +197,6 @@
     "Cache.md",
     "CS/Theory of Computation/Harry Potter/Prerequisites.md",
     "EE/Signals and Systems/Aaron Lanterman/System Properties.md",
-    "EE/Signals and Systems/Aaron Lanterman/Contents.md",
-    "Maths/Group Theory/Richard E Borcherds/Langrange's Theorem.md",
-    "Maths/Group Theory/Richard E Borcherds/Introduction.md",
     "CS/Theory of Computation/Harry Potter",
     "CS/Theory of Computation",
     "CS/Full Stack Development/JavaScript",
